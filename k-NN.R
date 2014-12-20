@@ -15,8 +15,3 @@ trainData <- subset(trainData, select=-category)
 
 testData <- subset(data, select=-category)
 knn(trainData, testData, cl, k=3)
-
-
-
-
-
