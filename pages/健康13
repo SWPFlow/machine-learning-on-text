@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<script>var t_headstart=new Date().getTime();
+
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://s1.yimg.com/zz/combo?d/lib/yui/3.4.1/build/cssreset/cssreset-min.css&d/lib/yui/3.4.1/build/cssfonts/cssfonts-min.css&os/mit/media/p/presentation/grids/master-min-a143923.css&os/mit/media/p/presentation/grids/desktop-min-8723999.css&os/mit/media/p/presentation/base/master-min-8723999.css&os/mit/media/p/presentation/base/desktop-min-a143923.css" />
+<script type="text/javascript" src="https://s1.yimg.com/zz/combo?yui:3.9.1/build/yui/yui-min.js&os/mit/media/m/base/imageloader-min-649ba6f.js&os/mit/media/m/base/imageloader-bootstrap-min-649ba6f.js&os/mit/media/m/base/viewport-loader-min-649ba6f.js&os/mit/media/p/common/rmp-min-56d3a2e.js&ss/rapid-3.18.6.js&aj/lh-0.9.js"></script>
+<script>YMedia = YUI({combine: true, comboBase: "https://s1.yimg.com/zz/combo?", root: "yui:" + YUI.version + "/", maxURLLength: "2000", allowRollup: true}).use("anim", "async-queue", "dom-deprecated", "event-custom-base", "event-custom-complex", "event-outside", "event-resize", "event-simulate", "io-base", "json-parse", "node-deprecated", "node-event-simulate", "node-focusmanager", "node-pluginhost", "oop", "overlay", "querystring-stringify", "querystring-stringify-simple", "selector", "selector-native", "substitute", "widget-base", "widget-stack", function (Y) {});</script>
+<!-- QF --><meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+	<title>醫師少又老 未來恐無人看病 - Yahoo奇摩新聞</title>
+	<meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="https://s.yimg.com"><link rel="dns-prefetch" href="//y3.analytics.yahoo.com"><link rel="dns-prefetch" href="//geo.query.yahoo.com"><link rel="dns-prefetch" href="//geo.yahoo.com"><link rel="dns-prefetch" href="//csc.beap.bc.yahoo.com"><link rel="dns-prefetch" href="//b.scorecardresearch.com">
+	<meta name="description" lang="zh-Hant-TW" content="閱讀Yahoo奇摩新聞上的「醫師少又老 未來恐無人看病」。 5大專科 8年後缺7千多人〔自由時報記者林惠琴／台北報導〕國家衛生研究院（簡稱國衛院）研究發現，二○二二年，國內內科、外科、婦產科、兒科、急診科五大專科醫師的人力缺口將達七千多名 ..."/>
+	<link rel="canonical" href="https://tw.news.yahoo.com/%E9%86%AB%E5%B8%AB%E5%B0%91%E5%8F%88%E8%80%81-%E6%9C%AA%E4%BE%86%E6%81%90%E7%84%A1%E4%BA%BA%E7%9C%8B%E7%97%85-221035281.html"/>
+	<meta property="fb:app_id" content="90376669494"/>
+	<meta property="og:description" content="5大專科 8年後缺7千多人〔自由時報記者林惠琴／台北報導〕國家衛生研究院（簡稱國衛院）研究發現，二○二二年，國內內科、外科、婦產科、兒科、急診科五大專科醫師的人力缺口將達七千多名 ..."/>
+	<meta property="og:image" content="https://s1.yimg.com/bt/api/res/1.2/JptwpUoj8z_4Sr7rmQa2Qg--/YXBwaWQ9eW5ld3M7aWw9cGxhbmU7cT03NTt3PTYwMA--/http://media.zenfs.com/zh_hant_tw/News/Chinatimes/C03812002614.jpg"/>
+	<meta property="og:site_name" content="Yahoo奇摩新聞"/>
+	<meta property="og:title" content="醫師少又老 未來恐無人看病"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="https://tw.news.yahoo.com/%e9%86%ab%e5%b8%ab%e5%b0%91%e5%8f%88%e8%80%81-%e6%9c%aa%e4%be%86%e6%81%90%e7%84%a1%e4%ba%ba%e7%9c%8b%e7%97%85-221035281.html"/>
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:description" content="5大專科 8年後缺7千多人〔自由時報記者林惠琴／台北報導〕國家衛生研究院（簡稱國衛院）研究發現，二○二二年，國內內科、外科、婦產科、兒科、急診科五大專科醫師的人力缺口將達七千多名 ..."/>
+	<meta name="twitter:image" content="https://s1.yimg.com/bt/api/res/1.2/JptwpUoj8z_4Sr7rmQa2Qg--/YXBwaWQ9eW5ld3M7aWw9cGxhbmU7cT03NTt3PTYwMA--/http://media.zenfs.com/zh_hant_tw/News/Chinatimes/C03812002614.jpg"/>
+	<meta name="twitter:image:src" content="https://s1.yimg.com/bt/api/res/1.2/JptwpUoj8z_4Sr7rmQa2Qg--/YXBwaWQ9eW5ld3M7aWw9cGxhbmU7cT03NTt3PTYwMA--/http://media.zenfs.com/zh_hant_tw/News/Chinatimes/C03812002614.jpg"/>
+	<meta name="twitter:title" content="醫師少又老 未來恐無人看病"/>
+	<meta name="application-name" content="醫師少又老 未來恐無人看病"/>
+	<meta name="msapplication-TileColor" content="#6e329d"/>
+	<meta name="msapplication-TileImage" content="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
+	<link rel="apple-touch-icon"  href="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-1636137.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-high-1636137.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-tablet-1636137.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-tablet-high-1636137.png">
+	<link rel="apple-touch-icon-precomposed" href="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-1636137.png">
+        
+<link rel="stylesheet" type="text/css" href="https://s1.yimg.com/zz/combo?kx/yucs/uh_common/meta/3/css/meta-min.css&kx/yucs/uh3s/uh/270/css/uh-center-aligned-min.css&os/mit/media/m/header/header-uh3s-min-c0170d4.css&os/mit/media/m/navigation/navigation-desktop-min-a8a04a0.css&os/mit/media/m/ads/ads-min-81b3fea.css&os/mit/media/m/footer/footer_sponsor-min-66303b2.css&os/mit/media/m/footer/footer_links-min-66303b2.css&os/mit/media/m/linkbox/linkbox-min-248956.css&os/mit/media/m/trending/trending-min-150139.css&os/mit/media/m/footer/footer_info-min-66303b2.css&os/mit/media/m/footer/footer_info-desktop-min-43b1bcf.css" />
+
+<link rel="stylesheet" type="text/css" href="https://s1.yimg.com/zz/combo?os/mit/media/m/article/master-min-41caf31.css&os/mit/media/m/article/desktop-min-41caf31.css&os/mit/media/m/pagination/pagination-min-1656503.css&os/mit/media/m/article/video-embed-player-min-41caf31.css&os/mit/media/m/markup/iframe-min-158395.css&os/mit/media/m/sharing/sharing-min-bb31164.css&os/mit/media/m/news/news-min-12266de.css&os/mit/media/m/news/sentiment-min-fae391c.css&os/mit/media/m/index/index-min-0858dde.css&os/mit/media/m/ads/module_tbsad-min-21b51bb.css&os/mit/media/m/carousel/bcarousel-min-29ddc48.css&os/mit/media/m/carousel/bcarousel-desktop-min-29ddc48.css&os/mit/media/m/carousel/carousel-min-29ddc48.css&os/mit/media/m/carousel/bcarousel-mixed-min-f9f77ff.css&os/mit/media/m/ads/ysm-min-45d3a99.css&os/mit/media/m/search/searchform-min-0bc3807.css&os/mit/media/m/list/blist-mixed-min-b87d915.css&os/mit/media/m/list/blist-mixed-desktop-min-b87d915.css&os/mit/media/m/news/sentiment-most-only-min-fae391c.css&os/mit/media/m/ads/module_m13-min-31892bd.css" />
+
+<link rel="stylesheet" type="text/css" href="https://s1.yimg.com/zz/combo?os/mit/media/themes/base/base-min-d6db390.css&os/mit/media/themes/base/base-imagery-min-d6db390.css&os/mit/media/themes/blue005790/theme-min-6fc9117.css&os/mit/media/themes/blue005790/theme-imagery-min-04092d7.css&os/mit/media/p/news/site/news-min-a250395.css&os/mit/media/m/news/lang/zh-min-aa7a3a8.css&os/mit/media/m/index/lang/zh-min-fc470e2.css&os/mit/media/m/ads/lang/zh-min-6a0035e.css&os/mit/media/p/news/lang/zh-min-a3e884f.css&os/mit/media/m/header/lang/zh-min-d521ddf.css&os/mit/media/m/navigation/lang/zh-min-a8a04a0.css&os/mit/media/m/article/lang/zh-min-41caf31.css&os/mit/media/m/footer/lang/zh-min-66303b2.css&os/mit/media/m/trending/lang/zh-min-150139.css&os/mit/media/p/news/region/TW-min-a3e884f.css" />
+<style type="text/css">.yom-sentiment-vote{margin-bottom:0!important;border-top:0!important}.yom-sentiment-vote .hd{padding-top:0!important}.yom-primary .yom-section .yog-8u .yom-section-list{padding-bottom:20px}.yom-blist .yom-list li a{font-size:116%}.yom-blist .ft .inline-show-more a.more-link{margin-top:5px;font-size:93%}.yom-follow{margin-bottom:0;padding-bottom:0}.yom-follow .bd{padding:0}.yom-browser-detection{width:99%!important}.iysmcm-col{float:none!important;margin-top:5px}.yom-ysmcm .iysmcm-col li{color:#999;list-style:disc;padding-top:10px;overflow:visible;margin-left:15px}.yom-follow{border-top:none!important;}.textimg-m .bd .arrow{background:url(https://s.yimg.com/os/mit/media/m/news/images/news-413036.png) no-repeat 0 -700px;width:13px;height:9px;position:absolute;top:0;left:31px;z-index:1}.yog-16u .textimg-m .bd .arrow{background:url(https://s.yimg.com/os/mit/media/m/news/images/news-413036.png) no-repeat 0 -700px;width:13px;height:9px;position:absolute;top:0;left:31px;z-index:1}.yog-16u .textimg-s .bd .arrow{background:url(https://s.yimg.com/os/mit/media/m/news/images/news-413036.png) no-repeat 0 -700px;width:13px;height:10px;position:absolute;left:15px;z-index:1;top:-8px}.yog-16u .textimg-m .bd ul,.yog-16u .textimg-s .bd ul{margin-top:0}#mediasentiment .yom-sentiment-menu:not(.voted) a:hover span{margin: -4px 2px auto -8px;width: 37px;height: 34px;}</style>
+<style type="text/css">#yom-ad-tbs-as{border:0;margin-bottom:20px;background:none repeat scroll 0 0 #EEE;padding:0 5px 5px 5px}#yom-ad-tbs-as .hd ul{border:0}#yom-ad-tbs-as .hd li{border:0;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;background:-moz-linear-gradient(top,#eee 0,#eee 50%,#eee 51%,#eee 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0,#eee),color-stop(50%,#eee),color-stop(51%,#eee),color-stop(100%,#eee));background:-webkit-linear-gradient(top,#eee 0,#eee 50%,#eee 51%,#eee 100%);background:-o-linear-gradient(top,#eee 0,#eee 50%,#eee 51%,#eee 100%);background:-ms-linear-gradient(top,#eee 0,#eee 50%,#eee 51%,#eee 100%);background:linear-gradient(top,#eee 0,#eee 50%,#eee 51%,#eee 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#eeeeee,endColorstr=#eeeeee,GradientType=0);background:#eee}#yom-ad-tbs-as .tab.selected{border:0;background:transparent;padding:5px 0;text-align:left;width:100%;border-radius:0;-webkit-border-radius:0;-moz-border-radius:0}#yom-ad-tbs-as .tab.selected a,#yom-ad-tbs-as .tab.selected a:visited{color:#aaa;cursor:text}#yom-ad-tbs-as .bd{background:#fff}#yom-ad-tbs-as .bd ul{margin-left:12px;letter-spacing:-4px}#yom-ad-tbs-as .bd li{padding:10px 0;width:25%;letter-spacing:normal;vertical-align:top}#yom-ad-tbs-as .bd img{width:140px}#yom-ad-tbs-as .panel h3{font-size:12px;padding:5px 0 0;margin-right:12px;line-height:150%}#yom-ad-tbs-as .panel h3 a:hover{color:#ff9c5f}#yom-ad-tbs-as .panel h3 a{color:#005790}#yom-ad-tbs-as .ft{padding:0}#yom-ad-tbs-as:before,#yom-ad-tbs-as:after{content:none}<!-- EU6 CSS START -->.hide_element{display:none}#yom-ad-EU1-4{padding:0 5px 5px;background:none repeat scroll 0 0 #EEE;margin:10px 0 10px 0}#yom-ad-EU1-4 .hd{line-height:18px;color:#AAA;padding:4px 0 5px;height:16px;font-size:12px}#yom-ad-EU1-4 .bd{background-color:#FFF;vertical-align:top}#yom-ad-EU1-4 ul{margin:0;padding:0 10px 10px 10px}#yom-ad-EU1-4 ul li.story{list-style:none outside none}#yom-ad-EU1-4 .img{display:table-cell;vertical-align:top;padding-right:10px}#yom-ad-EU1-4 .txt{display:table-cell;text-align:left}#yom-ad-EU1-4 .txt a{text-decoration:none;font-weight:normal}#yom-ad-EU1-4 .title{padding-bottom:4px}#yom-ad-EU1-4 .txt .title a{font-size:15px}#yom-ad-EU1-4 .desc{padding-bottom:4px;margin:0;font-size:12px;line-height:1.3}#yom-ad-EU1-4 .desc a{font-size:12px}#yom-ad-EU1-4 .txt .more{padding-left:5px}#yom-ad-EU1-4 .txt .more a{font-size:12px}#yom-ad-EU1-4 .eu-item{padding-top:10px;margin-top:10px;border-top:1px dotted #ddd}#yom-ad-EU1-4 .eu-item.first{margin-top:0;border:0}<!-- EU6 CSS END --></style>
+
+
+                        
+                        <style type="text/css">
+                            .yom-art-related .bd{ border-bottom:3px double #DADADA;margin-bottom:10px;}
+                            .yog-page .yom-art-bd .yog-11u{ overflow:visible;}
+                            .yom-art-content, .yom-art-content .bd{ zoom:0;}
+                        </style>
+                        
+                    
+
+<script>if (!window.YAHOO) { window.YAHOO = {}; } if (!YAHOO.Media) { YAHOO.Media = {}; } if (!YAHOO.widget) { YAHOO.widget = {}; }</script>
+<script>if (!window.YMedia) { var YMedia = YUI(); YMedia.includes = []; YMedia.module_includes = []; }</script>
+
+                <script>window.YMEDIA_REQ_ATTR = { instr:{request_id:"ch793fla9b480",authfb:0}, device: { os: '', osver: '' } };</script>
+            
+
+        <script language="javascript">
+        
+YUI.YUICfg = {"gallery":"yui:gallery-2011.04.20-13-04","groups":{"group0d9d821fd95f957944c70b69b28ef8dd5":{"base":"https:\/\/s.yimg.com\/","comboBase":"https:\/\/s.yimg.com\/zz\/combo?","modules":{"media-yahoo":{"path":"d\/lib\/yui\/2.8.0r4\/build\/yahoo\/yahoo-min.js"},"media-dom":{"path":"d\/lib\/yui\/2.8.0r4\/build\/dom\/dom-min.js"},"media-event":{"path":"d\/lib\/yui\/2.8.0r4\/build\/event\/event-min.js"},"media-imageloader":{"path":"os\/mit\/media\/m\/base\/imageloader-min-649ba6f.js"},"media-imageloader-bootstrap":{"path":"os\/mit\/media\/m\/base\/imageloader-bootstrap-min-649ba6f.js"},"media-af-beacon":{"path":"os\/mit\/media\/p\/common\/af-beacon-min-4e5a259.js"},"media-iframe":{"path":"os\/mit\/media\/m\/markup\/iframe-min-274866.js"},"media-rmp":{"path":"os\/mit\/media\/p\/common\/rmp-min-56d3a2e.js"}},"combine":true,"filter":"min","root":"\/"}},"combine":true,"allowRollup":true,"comboBase":"https:\/\/s.yimg.com\/zz\/combo?","maxURLLength":"2000"}
+YUI.YUICfg.root='yui:'+YUI.version+'/build/';
+YMedia.applyConfig(YUI.YUICfg);
+YUI.Env[YUI.version].base = 'https://s.yimg.com/';
+YUI.Env[YUI.version].comboBase = 'https://s.yimg.com/zz/combo?';
+YUI.Env[YUI.version].root = 'yui:'+YUI.version+'/build/';
+YMedia.use("media-yahoo","media-dom","media-event","media-rmp","media-viewport-loader","dom-deprecated","node-deprecated","substitute","media-imageloader","media-imageloader-bootstrap","base-base","node-style","node-screen","event-custom","media-af-beacon","json-stringify","querystring-stringify-simple","media-iframe","node","io-base",function(Y){
+          
+    Y.later(10, this, function() {Y.applyConfig({debug: false});});
+    Y.later(10, this, function() {
+                YUI.namespace("Media").LANGDIR='ltr';
+                YUI.namespace("Media").CONTENT_ID = "e02497d9-8905-3d79-83e0-d4eadf760b33";
+                });
+    Y.later(10, this, function() {Y.namespace("Global.Media").ILBoot = new Y.ImageLoaderBootstrap(200);});
+    Y.later(10, this, function() {Y.on("domready", function() { Y.Global.Media.IFrameMgr.add({"id":"mediasocialfollowfb-ifr","src":"https:\/\/www.facebook.com\/plugins\/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FYahoo%25E5%25A5%2587%25E6%2591%25A9%25E6%2596%25B0%25E8%2581%259E%2F109249609124014&layout=button_count&show_faces=0&width=90&height=24&locale=zh_TW","width":"90px","height":"24px","scrolling":"no"}); });});
+    Y.later(10, this, function() {YUI.namespace("Media").ads_supp_ugc="";});
+    Y.later(10, this, function() {var darla_version_0_4_0 = "0",
+                                    darlaVersion = "2-8-4", darla_version = 1,
+                                    darla_type = "2";
+                                if (darla_version_0_4_0 == '1') {
+                                    darla_version = darlaVersion && 0 === darlaVersion.indexOf('2') ? 2 : 1;
+                                }else{
+                                    darla_version = darla_type;
+                                }
+                                if (darla_version >= 2) {
+                                    LIGHTBOX_DARLA_CONFIG = {"useYAC":0,"servicePath":"https:\/\/tw.news.yahoo.com\/__darla\/php\/fc.php","xservicePath":"","beaconPath":"https:\/\/tw.news.yahoo.com\/__darla\/php\/b.php","renderPath":"","allowFiF":false,"srenderPath":"https:\/\/s.yimg.com\/rq\/darla\/2-8-4\/html\/r-sf.html","renderFile":"https:\/\/s.yimg.com\/rq\/darla\/2-8-4\/html\/r-sf.html","sfbrenderPath":"https:\/\/s.yimg.com\/rq\/darla\/2-8-4\/html\/r-sf.html","msgPath":"https:\/\/tw.news.yahoo.com\/__darla\/2-8-4\/html\/msg.html","cscPath":"https:\/\/s.yimg.com\/rq\/darla\/2-8-4\/html\/r-csc.html","root":"__darla","edgeRoot":"https:\/\/s.yimg.com\/rq\/darla\/2-8-4","sedgeRoot":"https:\/\/s.yimg.com\/rq\/darla\/2-8-4","version":"2-8-4","tpbURI":"","hostFile":"https:\/\/s.yimg.com\/rq\/darla\/2-8-4\/js\/g-r-min.js","beaconsDisabled":true,"rotationTimingDisabled":true};
+                                }
+                                if (YMedia) {
+                                    YMedia.DarlaVersion = darla_version;
+                                }});
+    Y.later(10, this, function() {
+        var vplContainers = [
+                        {
+                "selector":"#mediacommentsugc_container",
+                "use":["media-rmp"],
+                "callback":function(node){ Y.Media.RMP.load({"srcNode":"#mediacommentsugc_container","timeout":5000,"params":{"mi_content_type":"story","mi_context_category":"article","mi_context_description":"5\u5927\u5c08\u79d1 8\u5e74\u5f8c\u7f3a7\u5343\u591a\u4eba\u3014\u81ea\u7531\u6642\u5831\u8a18\u8005\u6797\u60e0\u7434\uff0f\u53f0\u5317\u5831\u5c0e\u3015\u570b\u5bb6\u885b\u751f\u7814\u7a76\u9662\uff08\u7c21\u7a31\u570b\u885b\u9662\uff09\u7814\u7a76\u767c\u73fe\uff0c\u4e8c\u25cb\u4e8c\u4e8c\u5e74\uff0c\u570b\u5167\u5167\u79d1\u3001\u5916\u79d1\u3001\u5a66\u7522\u79d1\u3001\u5152\u79d1\u3001\u6025\u8a3a\u79d1\u4e94\u5927\u5c08\u79d1\u91ab\u5e2b\u7684\u4eba\u529b\u7f3a\u53e3\u5c07\u9054\u4e03\u5343\u591a\u540d ...","mi_context_id":"e02497d9-8905-3d79-83e0-d4eadf760b33","mi_context_title":"\u91ab\u5e2b\u5c11\u53c8\u8001 \u672a\u4f86\u6050\u7121\u4eba\u770b\u75c5","mi_context_url":"https:\/\/tw.news.yahoo.com\/\u91ab\u5e2b\u5c11\u53c8\u8001-\u672a\u4f86\u6050\u7121\u4eba\u770b\u75c5-221035281.html","mi_enable_comments":"1","mi_pt":"storypage","mi_spaceid":"2144404884","mi_vita_article_source":"\u81ea\u7531\u6642\u5831","mi_vita_type":"article","instance_id":"aee18104-695c-32ec-ad1f-6f35104e6310","y_proc_embeds":"1","_device":"full","mod_units":"16","mod_id":"mediacommentsugc","content_id":"e02497d9-8905-3d79-83e0-d4eadf760b33","nolz":"1","y_map_urn":"urn:rmp:lite","m_mode":"multipart","r_load":"1","_product_version":"classic","_sig":"cIAeFF4N1FE9pIXDgF6i86YBzHE-"}}); }
+            },
+        ];
+
+        var vpl = Y.Object.getValue(Y, ['Global', 'Media', 'ViewportLoader']);
+        if (vpl) {
+            vpl.lookaheadOffset = 250;
+            vpl.addContainers(vplContainers);
+        }
+});
+           
+});
+
+        
+        </script>
+
+
+
+<meta name="application-name" content="Yahoo奇摩新聞" />
+<meta name="msapplication-tooltip" content="Yahoo奇摩新聞" />
+<meta name="msapplication-navbutton-color" content="purple" />
+<meta name="msapplication-starturl" content="/" />
+                    
+        
+<script type="text/javascript">if(typeof rt_pushMoment!=='undefined')rt_pushMoment("t1");</script>
+        <script>var t_headend=new Date().getTime();</script>
+    </head>
+    <body dir="ltr" class="no-js yog-ltr  ">
+        <div id="fb-root"></div>
+        <script type="text/javascript">document.body.className = document.body.className.replace('no-js', 'js'); document.body.offsetHeight;</script>
+        <div class="yog-page">
+            <header><div id="yog-hd" class="yog-hd header">
+                
+                <div id="header" class="yom-header yog-grid" role="banner"><style type="text/css">@font-face{font-family:Yglyphs-common;src:url(https://s.yimg.com/os/mit/ape/font/c023217/fonts/Yglyphs-common.eot);font-weight:400;font-style:normal}@font-face{font-family:Yglyphs-common;src:url(https://s.yimg.com/os/mit/ape/font/c023217/fonts/Yglyphs-common.eot);src:url(https://s.yimg.com/os/mit/ape/font/c023217/fonts/Yglyphs-common.eot?#iefix) format('embedded-opentype'),url(https://s.yimg.com/os/mit/ape/font/c023217/fonts/Yglyphs-common.woff) format('woff'),url(https://s.yimg.com/os/fontserver/0.1.8/Yglyphs-common.ttf) format('truetype'),url(https://s.yimg.com/os/mit/ape/font/c023217/fonts/Yglyphs-common.svg?#Yglyphs-common) format('svg');font-weight:400;font-style:normal}.Ycon{font-family:Yglyphs-common}.YconArrowDown{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x22c1;')}.YconArrowDown:before{content:'\22c1'}.YconArrowEnd{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3e;')}.YconArrowEnd:before{content:'\3e'}.YconArrowOpenEnd{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x27e9;')}.YconArrowOpenEnd:before{content:'\27e9'}.YconArrowOpenStart{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x27e8;')}.YconArrowOpenStart:before{content:'\27e8'}.YconArrowStart{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3c;')}.YconArrowStart:before{content:'\3c'}.YconArrowUp{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x22c0;')}.YconArrowUp:before{content:'\22c0'}.YconCircleSolid{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x25cf;')}.YconCircleSolid:before{content:'\25cf'}.YconEllipsis{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2026;')}.YconEllipsis:before{content:'\2026'}.YconHome{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2302;')}.YconHome:before{content:'\2302'}.YconLogoYahoo{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x59;')}.YconLogoYahoo:before{content:'\59'}.YconMail{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2709;')}.YconMail:before{content:'\2709'}.YconMenu{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2261;')}.YconMenu:before{content:'\2261'}.YconProfile{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x1f464;')}.YconProfile:before{content:'\1f464'}.YconSearch{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x1f50d;')}.YconSearch:before{content:'\1f50d'}.YconSettings{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2699;')}.YconSettings:before{content:'\2699'}</style><!-- meta --><div id="yucs-meta" data-authstate="signedout" data-cobrand="standard" data-crumb="" data-mc-crumb="" data-gta="" data-device="desktop" data-experience="uh304" data-firstname="" data-flight="1419088128" data-forcecobrand="standard" data-guid="" data-host="tw.news.yahoo.com" data-https="1" data-languagetag="zh-hant-tw" data-property="news" data-protocol="https" data-shortfirstname="" data-shortuserid="" data-status="active" data-spaceid="2144404884" data-test_id="" data-userid="" data-stickyheader="true" data-headercollapse='' ></div><!-- /meta --><div id="UH" class="Row yucs yucs-cb-standard StencilRoot yucs-zh-hant-tw yucs-news " role="banner" data-protocol='https' data-property="news" data-spaceid="2144404884" data-stencil="true"><style>#yucs-profile {padding-left: 0!important;}
+.yucs-trigger .Icon,
+.yucs-trigger b {
+    line-height: 22px !important;
+    height: 22px !important;
+}
+.yucs-trigger .Icon {
+   font-size: 22px !important;
+}
+.yucs-trigger .AlertBadge,
+.yucs-trigger .MailBadge {
+    line-height: 13px !important;
+    height: 13px !important;
+}
+.yucs-mail_link_att.yucs-property-frontpage #yucs-mail_link_id i.Icon {
+    text-indent: -9999em;
+}
+/* mail badge */
+.AlertBadge,
+.MailBadge {
+    padding: 3px 6px 2px 6px;
+    min-width: 6px;
+    max-width: 16px;
+    margin-left: -13px;
+
+}
+
+/* search box */
+
+#UHSearchBox {
+  border: 1px solid #ceced6 !important;
+  border-radius: 2px;
+  height: 34px;
+  *height: 18px;
+}
+#UHSearchBox:focus {
+border: 1px solid #7590f5 !important;
+  box-shadow: none !important;
+}
+/* buttons */
+#UHSearchWeb, #UHSearchProperty {
+  height: 32px !important;
+  line-height: 34px !important;
+-webkit-appearance: none;
+
+}
+
+#Stencil #UHSearchWeb,
+#Stencil #UHSearchProperty {
+    height: 30px;
+    box-sizing: content-box;
+    min-width: 92px;
+    padding-left: 14px;
+    padding-right: 14px;
+    *width: 100%;
+
+}
+.DarkTheme .yucs-trigger .Ycon {
+color: #fff;
+}</style><div id="yucs-disclaimer" class="yucs-disclaimer yucs-activate yucs-hide yucs-property-news yucs-fcb- " data-dsstext="想要享受更好的搜尋體驗嗎？ {dssLink}將您的搜尋設為 Yahoo奇摩{linkEnd}" data-dsstext-mobile="更少的搜尋動作，更多的搜尋結果" data-dsstext-mobile-ok="確定" data-dsstext-mobile-set-search="將您的搜尋設定為 Yahoo。" data-ylt-link="https://tw.search.yahoo.com/searchset?pn=" data-ylt-dssbarclose="/" data-ylt-dssbaropen="/" data-linktarget="_top" data-lang="zh-hant-tw" data-property="news" data-device="Desktop" data-close-txt="關閉此視窗" data-maybelater-txt = "稍後再說" data-killswitch = "0" data-host="tw.news.yahoo.com" data-spaceid="2144404884" data-pn="" data-pn-en-ca-mobile="" data-pn-de-de-mobile="" data-pn-es-es-mobile="" data-pn-fr-fr-mobile="" data-pn-en-in-mobile="" data-pn-it-it-mobile="" data-pn-en-us-mobile="" data-pn-en-sg-mobile="" data-pn-en-gb-mobile="" data-pn-en-us-tablet="" data-news-search-yahoo-com="" data-answers-search-yahoo-com="" data-finance-search-yahoo-com="" data-images-search-yahoo-com="" data-video-search-yahoo-com="" data-sports-search-yahoo-com="" data-shopping-search-yahoo-com="" data-shopping-yahoo-com="" data-us-qa-trunk-news-search-yahoo-com ="" data-dss=""></div> <div id="masterNav" class='yucs-ps' data-ylk="rspns:nav;act:click;t1:a1;t2:uh-d;t3:tb;t5:pty;slk:pty;elm:itm;elmt:pty;itc:0;"><ul id="Eyebrow" class="Mb-12 Lh-17 NavLinks Reset" role="navigation"><li id="yucs-top-home" class="Grid-U Mend-18 Pstart-10"><a href="https://tw.yahoo.com/" data-ylk="t5:home;slk:home;"><i id="my-home" class="Fl-start Mend-6 Ycon YconHome Fz-s Mt-neg-1"></i><b class="Mstart-neg-1">首頁</b></a></li><li id="yucs-top-mail" class="Grid-U Mend-18 Pstart-14"><a href="https://tw.mail.yahoo.com/" data-ylk="t5:mail;slk:mail;">信箱</a></li><li id="yucs-top-news" class="Grid-U Mend-18 Pstart-14"><a href="https://tw.news.yahoo.com/" data-ylk="t5:news;slk:news;">新聞</a></li><li id="yucs-top-finance" class="Grid-U Mend-18 Pstart-14"><a href="http://tw.finance.yahoo.com/" data-ylk="t5:finance;slk:finance;">股市</a></li><li id="yucs-top-weather" class="Grid-U Mend-18 Pstart-14"><a href="http://tw.weather.yahoo.com/" data-ylk="t5:weather;slk:weather;">氣象</a></li><li id="yucs-top-sports" class="Grid-U Mend-18 Pstart-14"><a href="http://tw.sports.yahoo.com/" data-ylk="t5:sports;slk:sports;">運動</a></li><li id="yucs-top-screen" class="Grid-U Mend-18 Pstart-14"><a href="https://tw.screen.yahoo.com/" data-ylk="t5:screen;slk:screen;">影音</a></li><li id="yucs-top-celebrity" class="Grid-U Mend-18 Pstart-14"><a href="https://tw.celebrity.yahoo.com" data-ylk="t5:celebrity;slk:celebrity;">名人娛樂</a></li><li id="yucs-top-flickr" class="Grid-U Mend-18 Pstart-14"><a href="https://www.flickr.com/" data-ylk="t5:flickr;slk:flickr;">Flickr</a></li><li id="yucs-top-buy" class="Grid-U Mend-18 Pstart-14"><a href="http://tw.buy.yahoo.com/" data-ylk="t5:buy;slk:buy;">購物中心</a></li><li id="yucs-top-mall" class="Grid-U Mend-18 Pstart-14"><a href="http://tw.mall.yahoo.com/" data-ylk="t5:mall;slk:mall;">商城</a></li><li id="yucs-top-bid" class="Grid-U Mend-18 Pstart-14"><a href="http://tw.bid.yahoo.com/" data-ylk="t5:bid;slk:bid;">拍賣</a></li><li id='yucs-more' class='Grid-U Pstart-10 Pend-6 Pos-r Z-1 MoreDropDown yucs-menu yucs-more-activate' data-ylt=""><a href="http://tw.everything.yahoo.com/" role="button" id='yucs-more-link' class='Pos-r Z-1 yucs-leavable rapidnofollow MouseOver Fl-start'  data-plugin="toggle" data-toggle='[{"target":"#yucs-top-menu .MoreDropDown-Box","click":{"toggle":{"classnames":"D-n"}}}, {"target-ancestor":".MoreDropDown","click":{"toggle":{"classnames":"MoreDropDown-on"}}}]' data-ylk="rspns:op;t5:more;slk:more;elmt:mu;itc:1;" style="padding:0;"><b class="Fl-start Lh-17 MouseOver-TextDecoration">更多</b><i class="Fz-m Va-m Lh-1 Mstart-2 Ycon YconArrowDown Ta-c NoTextDecoration Fl-end Mt-4"></i></a><div id='yucs-top-menu'><div class="Pos-a Start-0 T-100 MoreDropDown-Box D-n yui3-menu-content"><iframe frameborder="0" class="Pos-a Start-0 W-100 H-100 Bd-0" src="https://s.yimg.com/os/mit/media/m/base/images/transparent-95031.png"></iframe><ul class="yucs-leavable Pos-r Px-10"><li id='yucs-top-answers'><a class="D-b" href="https://tw.knowledge.yahoo.com/" data-ylk="t5:answers;slk:answers;t4:pty-mu;">知識+</a></li><li id='yucs-top-autos'><a class="D-b" href="http://tw.autos.yahoo.com/" data-ylk="t5:autos;slk:autos;t4:pty-mu;">汽車機車</a></li><li id='yucs-top-movies'><a class="D-b" href="http://tw.movies.yahoo.com/" data-ylk="t5:movies;slk:movies;t4:pty-mu;">電影</a></li><li id='yucs-top-dictionary'><a class="D-b" href="http://tw.dictionary.yahoo.com/" data-ylk="t5:dictionary;slk:dictionary;t4:pty-mu;">字典</a></li><li id='yucs-top-games'><a class="D-b" href="http://tw.games.yahoo.com/" data-ylk="t5:games;slk:games;t4:pty-mu;">遊戲</a></li><li id='yucs-top-travel'><a class="D-b" href="http://tw.travel.yahoo.com/" data-ylk="t5:travel;slk:travel;t4:pty-mu;">旅遊</a></li><li id='yucs-top-money'><a class="D-b" href="http://tw.money.yahoo.com/" data-ylk="t5:money;slk:money;t4:pty-mu;">理財</a></li><li id='yucs-top-homes'><a class="D-b" href="http://tw.house.yahoo.com/" data-ylk="t5:homes;slk:homes;t4:pty-mu;">房地產</a></li><li id='yucs-top-fashion'><a class="D-b" href="https://tw.fashion.yahoo.com/" data-ylk="t5:fashion;slk:fashion;t4:pty-mu;">時尚美妝</a></li><li id='yucs-top-discount'><a class="D-b" href="http://tw.discount.yahoo.net/" data-ylk="t5:discount;slk:discount;t4:pty-mu;">折扣城</a></li></ul></div></div></li></ul></div> <div id="uhWrapper" class="Ma Z-2 Pos-r" data-ylk="rspns:nav;act:click;t1:a1;t2:uh-d;itc:0;"> <table class="Ma My-0 W-100" role="presentation"> <tr role="presentation"> <td style="width:190px" role="presentation"><style>/** * IE7+ and non-retina display */.YLogoMY { background-repeat: no-repeat; background-image: url(https://s.yimg.com/rz/d/yahoo_news_zh-Hant-TW_s_f_pw_351x40_news.png); _background-image: url(https://s.yimg.com/rz/d/yahoo_news_zh-Hant-TW_s_f_pw_351x40_news.gif); /* IE6 */ width: 126px; }.DarkTheme .YLogoMY { background-position: -352px 0px !important;}/** * For 'retina' display */@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and ( min--moz-device-pixel-ratio: 2), only screen and ( -o-min-device-pixel-ratio: 2/1), only screen and ( min-device-pixel-ratio: 2), only screen and ( min-resolution: 192dpi), only screen and ( min-resolution: 2dppx) { .YLogoMY { background-image: url(https://s.yimg.com/rz/d/yahoo_news_zh-Hant-TW_s_f_pw_351x40_news_2x.png) !important; background-size: 702px 40px !important; }}</style><a class="YLogoMY Mx-a " data-ylk="slk:logo;t3:logo;t5:logo;elm:img;elmt:logo;" href="https://tw.news.yahoo.com" target="_top" ></a></td> <td role="presentation"><form id="UHSearch" target="_top" autocomplete="off" data-vfr="uh3_news_vert_gs"data-webaction="https://tw.search.yahoo.com/search" action="https://tw.news.search.yahoo.com/search" data-webaction-tar="" data-verticalaction-tar=""  method="get"class="Reset UHSearch-Init"><table class="W-100 Reset H-100"> <tbody> <tr> <td class='W-100 Px-0'><input id="UHSearchBox" type="text" class="W-100 Fz-l Fw-200 M-0 P-4 Bdrs-0 Bxsh-n" style="border-color:#7590f5;" name="p" aria-describedby="UHSearchBox" data-ylk="slk:srchinpt-hddn;itc:1;" data-yltvsearch="https://tw.news.search.yahoo.com/search" data-yltvsearchsugg="/" data-satype="mini" data-gosurl="https://tw.search.yahoo.com/sugg/gossip/gossip-tw-ura/" data-pubid="184" data-maxresults="10" data-resize=""> <div id="yucs-satray" class="sa-tray D-n Fz-s FancyBox Bdtrrs-0 Bdtlrs-0 Lh-15 NoLinkColor NoTextDecoration" data-wstext="Search Web for: " data-wsearch="https://tw.search.yahoo.com/search" data-vfr="uh3_news_vert_gs" data-vsearch="https://tw.news.search.yahoo.com/search" data-vstext= "Search News for: " > </div></td> <!-- ".Grid' is used here to kill white-space -->  <td class="Grid W-10 Whs-nw Pstart-4 Pend-0 Bdcl-s"><style type="text/css">#UHSearchWeb, #UHSearchProperty{ height: 30px; min-width: 120px;} .ua-ie8 #UHSearchWeb, .ua-ie8 #UHSearchProperty, .ua-ie9 #UHSearchWeb, .ua-ie9 #UHSearchProperty{ height: 32px; min-width: 120px;}#UHSearchProperty, .Themable .ThemeReset #UHSearchProperty { background: #363f80 !important; border: 0 !important; box-shadow: 0 2px #000000 !important;}</style><input id="UHSearchProperty" class="Grid-U Btn M-0" type="submit" data-vfr="uh3_news_vert_gs"data-vsearch="https://tw.news.search.yahoo.com/search"value="新聞搜尋" data-ylk="t3:srch;t5:srchvert;slk:srchvert;elm:btn;elmt:srch;tar:;"></td> <td class="Grid W-10 Whs-nw Pstart-4 Pend-0 Bdcl-s"><input id="UHSearchWeb" class="Grid-U Btn M-0 uh-ignore-rapid" type="submit" value="網頁搜尋" data-ylk="t3:srch;t5:srchweb;slk:srchweb;elm:btn;elmt:srch;itc=0;tar:;"></td> <style type="text/css">  #UHSearchWeb, #UHSearchProperty{ height: 30px; } .ua-ie8 #UHSearchWeb, .ua-ie8 #UHSearchProperty, .ua-ie9 #UHSearchWeb, .ua-ie9 #UHSearchProperty{ height: 32px; } #UHSearchWeb, .Themable .ThemeReset #UHSearchWeb { background: #3775dd; border: 0; box-shadow: 0 2px #21487f; } </style> </tr> </tbody> </table> <input type="hidden" name="type" value="2button" data-ylk="slk:yhstype-hddn;itc:1;"/>  <input type="hidden" id="fr" name="fr" data-ylk="slk:frcode-hddn;itc:1;" value="uh3_news_web_gs" />  </form><!-- /#uhSearchForm --></td> <td class="W-1" role="presentation" id="uhNavWrapper"> <ul class="Fl-end Mend-10 Grid Whs-nw My-6">  <li class="Grid-U Pos-r Pstart-4 Mend-20" id="yucs-profile" data-yltmenushown="/"> <a class="D-b MouseOver NoTextDecoration signin yucs-trigger Lh-1" href="https://login.yahoo.com/config/login?.src=yn&.intl=tw&.lang=zh-Hant-TW&.done=https://tw.news.yahoo.com/%25E9%2586%25AB%25E5%25B8%25AB%25E5%25B0%2591%25E5%258F%2588%25E8%2580%2581-%25E6%259C%25AA%25E4%25BE%2586%25E6%2581%2590%25E7%2584%25A1%25E4%25BA%25BA%25E7%259C%258B%25E7%2597%2585-221035281.html" target="_top" rel="nofollow" aria-label="社交名片" aria-haspopup="true" role="button" data-ylk="t3:tl-lst;t5:usersigni;slk:usersigni;elm:tl;elmt:lgi;"> <i class="Va-m W-a yucs-avatar Ycon YconProfile Fz-2xl Lh-1 C-p-blue Mend-4"></i> <b class="Va-m MouseOver-TextDecoration" title="登入">登入</b></a>  </li> <li class="Grid-U Mend-20 Pos-r yucs-mail_link yucs-mailpreview-ancestor" id="yucs-mail"> <a id="yucs-mail_link_id" class="D-ib sp yltasis yucs-fc Pos-r MouseOver NoTextDecoration yucs-menu-link yucs-trigger Lh-1" href="https://tw.mail.yahoo.com/?.intl=tw&.lang=zh-Hant-TW" data-plugin='' data-trigger='mouseenter mouseleave' data-tooltip='{"target-child":".Ycon","mouseenter":{"show":{"mouseover":true,"position":"br","id":"yucs-mail-panel"}},"mouseleave":{"hide":{"id":"yucs-mail-panel"}}}' data-ylk="t3:tl-lst;t5:mailsignost;slk:mailsignost;elm:tl;elmt:mail;">  <i class="Va-m W-a Mend-2 Ycon YconMail C-p-blue Lh-1 Fz-2xl"></i> <b class="Va-m MouseOver-TextDecoration" title="Mail">信箱</b> </a> </li> <li id="yucs-help" class=" yucs-activate yucs-help yucs-menu_nav Grid-U Pos-r"> <a id="yucs-help_button" class="D-ib yltasis yucs-trigger Lh-1 NoTextDecoration" href="#" title="服務說明" data-plugin='tooltip' data-trigger='mouseenter mouseleave click' data-tooltip='{"click":{"toggle":{"position":"bfr","id":"yucs-help_inner"}},"mouseenter":{"show":{"mouseover":true,"position":"bfr","id":"yucs-help_inner"}},"mouseleave":{"hide":{"id":"yucs-help_inner"}}}' aria-haspopup="true" role="button" data-ylk="rspns:op;t3:tl-lst;t4:cog-mu;t5:cogop;slk:cogop;elm:tl;elmt:cog;itc:1;"> <i class="Va-m W-a Fz-2xl Ycon YconSettings C-p-blue"></i> <b class="Hidden">服務說明</b> </a> <div id="yucs-help_inner" class="FancyBox Arrow Mt-10 Px-10 Pos-a Lh-14 End-0 Mend-neg-8 Whs-nw D-n yucs-menu yucs-hm-activate" data-yltmenushown="/" aria-hidden="true"> <ul id="yuhead-help-panel" class="Bleed Pos-r My-0 NoLinkColor"> <li class="Py-8 Px-10"><a class="yucs-acct-link D-b" href="https://edit.yahoo.com/mc2.0/eval_profile?.intl=tw&.lang=zh-Hant-TW&.done=https://tw.news.yahoo.com/%25E9%2586%25AB%25E5%25B8%25AB%25E5%25B0%2591%25E5%258F%2588%25E8%2580%2581-%25E6%259C%25AA%25E4%25BE%2586%25E6%2581%2590%25E7%2584%25A1%25E4%25BA%25BA%25E7%259C%258B%25E7%2597%2585-221035281.html&amp;.src=yn" target="_top" data-ylk="t3:tl-lst;t4:cog-mu;t5:acctinfo;slk:acctinfo;elm:itm;elmt:acctinfo;">帳號資料</a></li> <li class="Pb-8 Px-10"><a id="yhelp-link" class="D-b" href="http://help.cc.tw.yahoo.com/help_cp.html?product=115" rel="nofollow" data-ylk="t3:tl-lst;t4:cog-mu;t5:hlp;slk:hlp;elm:itm;elmt:hlp;">服務說明</a></li>     </ul> </div></li>  </ul> </td> </tr> </table> </div> <!-- /#UH --></div> </div>
+                <div class="yom-mod yom-nav" id="navigation" role="navigation"><div class="bd"><div class="nav"><div class="nav-stack nav-0"><ul class="navlist yog-grid"><li class="navitem selected first"><a href="/" mapleUltParams="sec=MediaNavigation_Main;pos=1"><span>首頁</span></a></li><li class="navitem"><a href="/politics/" mapleUltParams="sec=MediaNavigation_Main;pos=2"><span>政治</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/politics--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>政治熱門</span></a></li><li class="navitem"><a href="/blogs/gov-press/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>公共消息</span></a></li><li class="navitem"><a href="https://tw.rd.yahoo.com/referurl/video/navi/politics/*https://tw.news.yahoo.com/video-politics/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>政治影音</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_politics_xml_park&Keywords=%E6%94%BF%E5%BA%9C%E8%81%B7%E8%A8%93" mapleUltParams="sec=MediaNavigation_;pos=4"><span>政府職訓</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_politics_xml_park&Keywords=%E5%B0%88%E5%88%A9%E7%94%B3%E8%AB%8B" mapleUltParams="sec=MediaNavigation_;pos=5"><span>專利申請</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_politics_xml_park&Keywords=%E6%88%BF%E8%B2%B8" mapleUltParams="sec=MediaNavigation_;pos=6"><span>房貸</span></a></li></ul></div></li><li class="navitem"><a href="/finance/" mapleUltParams="sec=MediaNavigation_Main;pos=3"><span>財經</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/stock/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>股市匯市</span></a></li><li class="navitem"><a href="/industry/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>產業動態</span></a></li><li class="navitem"><a href="/economy/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>經貿財稅</span></a></li><li class="navitem"><a href="/real-estate/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>房地產</span></a></li><li class="navitem"><a href="/money-career/" mapleUltParams="sec=MediaNavigation_;pos=5"><span>理財就業</span></a></li><li class="navitem"><a href="/international-finance/" mapleUltParams="sec=MediaNavigation_;pos=6"><span>國際財經</span></a></li><li class="navitem"><a href="/finance--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=7"><span>財經熱門</span></a></li><li class="navitem"><a href="/blogs/gov-press/" mapleUltParams="sec=MediaNavigation_;pos=8"><span>公共消息</span></a></li><li class="navitem"><a href="https://tw.rd.yahoo.com/referurl/video/navi/finance/*https://tw.news.yahoo.com/video-finance/" mapleUltParams="sec=MediaNavigation_;pos=9"><span>財經影音</span></a></li><li class="navitem"><a href="https://tw.money.yahoo.com/featured" mapleUltParams="sec=MediaNavigation_;pos=10"><span>投資聚焦</span></a></li><li class="navitem gn_sub_blue last"><a href="https://surveylink.yahoo.com/wix/p21669446.aspx" mapleUltParams="sec=MediaNavigation_;pos=11"><span>房產未來</span></a></li></ul></div></li><li class="navitem"><a href="/entertainment/" mapleUltParams="sec=MediaNavigation_Main;pos=4"><span>影劇</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/celebrity/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>藝人動態</span></a></li><li class="navitem"><a href="/tv-radio/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>電視廣播</span></a></li><li class="navitem"><a href="/music/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>音樂</span></a></li><li class="navitem"><a href="/movies/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>電影</span></a></li><li class="navitem"><a href="/jp-kr/" mapleUltParams="sec=MediaNavigation_;pos=5"><span>日韓</span></a></li><li class="navitem"><a href="/entertainment--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=6"><span>影劇熱門</span></a></li><li class="navitem"><a href="https://tw.celebrity.yahoo.com/" mapleUltParams="sec=MediaNavigation_;pos=7"><span>名人娛樂</span></a></li><li class="navitem"><a href="https://tw.rd.yahoo.com/referurl/video/navi/entertainment/*https://tw.news.yahoo.com/video-entertainment/" mapleUltParams="sec=MediaNavigation_;pos=8"><span>影劇影音</span></a></li><li class="navitem"><a href="https://tw.celebrity.yahoo.com/feature/" mapleUltParams="sec=MediaNavigation_;pos=9"><span>明星特搜</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.news.yahoo.com/991588122014-andenhud-article-1-024559368.html" mapleUltParams="sec=MediaNavigation_;pos=10"><span>爆紅內褲</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_entertainment_xml_park&Keywords=%E5%AF%B6%E5%AF%B6%E5%AF%AB%E7%9C%9F" mapleUltParams="sec=MediaNavigation_;pos=11"><span>寶寶寫真</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_entertainment_xml_park&Keywords=%E6%8B%89%E7%9A%AE" mapleUltParams="sec=MediaNavigation_;pos=12"><span>拉皮</span></a></li></ul></div></li><li class="navitem"><a href="/sports/" mapleUltParams="sec=MediaNavigation_Main;pos=5"><span>運動</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/baseball/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>棒球</span></a></li><li class="navitem"><a href="/basketball/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>籃球</span></a></li><li class="navitem"><a href="/golf/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>高爾夫</span></a></li><li class="navitem"><a href="/tennis/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>網球</span></a></li><li class="navitem"><a href="/other-sports/" mapleUltParams="sec=MediaNavigation_;pos=5"><span>綜合</span></a></li><li class="navitem"><a href="/sports--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=6"><span>運動熱門</span></a></li><li class="navitem"><a href="https://tw.rd.yahoo.com/referurl/video/navi/sports/*https://tw.news.yahoo.com/video-sports/" mapleUltParams="sec=MediaNavigation_;pos=7"><span>運動影音</span></a></li><li class="navitem"><a href="https://tw.sports.yahoo.com/soccer/worldcup/" mapleUltParams="sec=MediaNavigation_;pos=8"><span>2014世足</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_sports_xml_park&Keywords=%E6%BB%91%E6%AD%A5%E6%A9%9F" mapleUltParams="sec=MediaNavigation_;pos=9"><span>滑步機</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_sports_xml_park&Keywords=%E5%81%A5%E8%BA%AB%E8%BB%8A" mapleUltParams="sec=MediaNavigation_;pos=10"><span>健身車</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_sports_xml_park&Keywords=%E6%B8%9B%E8%82%A5%E6%96%B9%E6%B3%95" mapleUltParams="sec=MediaNavigation_;pos=11"><span>減肥方法</span></a></li></ul></div></li><li class="navitem"><a href="/society/" mapleUltParams="sec=MediaNavigation_Main;pos=6"><span>社會</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/society--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>社會熱門</span></a></li><li class="navitem"><a href="/blogs/gov-press/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>公共消息</span></a></li><li class="navitem"><a href="https://tw.rd.yahoo.com/referurl/video/navi/society/*https://tw.news.yahoo.com/video-general/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>綜合影音</span></a></li><li class="navitem"><a href="https://tw.news.yahoo.com/topic-2014%E9%AB%98%E9%9B%84%E7%88%86%E7%82%B8/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>高雄氣爆</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_society_xml_park&Keywords=%E8%B2%A8%E6%AB%83%E5%B1%8B" mapleUltParams="sec=MediaNavigation_;pos=5"><span>貨櫃屋</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_society_xml_park&Keywords=%E9%9D%92%E5%B9%B4%E5%89%B5%E6%A5%AD" mapleUltParams="sec=MediaNavigation_;pos=6"><span>青年創業</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_society_xml_park&Keywords=%E5%A2%83%E5%A4%96%E9%87%91%E8%9E%8D" mapleUltParams="sec=MediaNavigation_;pos=7"><span>境外金融</span></a></li></ul></div></li><li class="navitem"><a href="/local/" mapleUltParams="sec=MediaNavigation_Main;pos=7"><span>地方</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/taipei/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>大台北</span></a></li><li class="navitem"><a href="/north-taiwan/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>北台灣</span></a></li><li class="navitem"><a href="/mid-taiwan/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>中部離島</span></a></li><li class="navitem"><a href="/south-taiwan/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>南台灣</span></a></li><li class="navitem"><a href="/east-taiwan/" mapleUltParams="sec=MediaNavigation_;pos=5"><span>東台灣</span></a></li><li class="navitem"><a href="/society--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=6"><span>地方熱門</span></a></li><li class="navitem"><a href="/blogs/gov-press/" mapleUltParams="sec=MediaNavigation_;pos=7"><span>公共消息</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_local_xml_park&Keywords=%E8%B2%B8%E6%AC%BE" mapleUltParams="sec=MediaNavigation_;pos=8"><span>貸款</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_local_xml_park&Keywords=%E9%9B%BB%E8%85%A6%E5%9B%9E%E6%94%B6" mapleUltParams="sec=MediaNavigation_;pos=9"><span>電腦回收</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_local_xml_park&Keywords=%E6%9C%8D%E9%A3%BE%E6%89%B9%E7%99%BC" mapleUltParams="sec=MediaNavigation_;pos=10"><span>服飾批發</span></a></li></ul></div></li><li class="navitem"><a href="/world/" mapleUltParams="sec=MediaNavigation_Main;pos=8"><span>國際</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/asia-australia/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>亞澳</span></a></li><li class="navitem"><a href="/china/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>中港</span></a></li><li class="navitem"><a href="/america/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>美洲</span></a></li><li class="navitem"><a href="/euro-africa/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>歐非</span></a></li><li class="navitem"><a href="/international-finance/" mapleUltParams="sec=MediaNavigation_;pos=5"><span>國際財經</span></a></li><li class="navitem"><a href="/world--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=6"><span>國際熱門</span></a></li><li class="navitem"><a href="https://tw.rd.yahoo.com/referurl/video/navi/world/*https://tw.news.yahoo.com/video-allworld/" mapleUltParams="sec=MediaNavigation_;pos=7"><span>國際影音</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_world_xml_park&Keywords=%E7%95%99%E5%AD%B8" mapleUltParams="sec=MediaNavigation_;pos=8"><span>留學</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_world_xml_park&Keywords=Emba" mapleUltParams="sec=MediaNavigation_;pos=9"><span>Emba</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_world_xml_park&Keywords=%E6%9D%B1%E4%BA%AC%E6%88%BF%E5%9C%B0%E7%94%A2" mapleUltParams="sec=MediaNavigation_;pos=10"><span>東京房地產</span></a></li></ul></div></li><li class="navitem"><a href="/lifestyle/" mapleUltParams="sec=MediaNavigation_Main;pos=9"><span>生活</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/consumption/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>消費</span></a></li><li class="navitem"><a href="/transportation/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>交通</span></a></li><li class="navitem"><a href="/pets/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>寵物</span></a></li><li class="navitem"><a href="/foods/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>美食</span></a></li><li class="navitem"><a href="/life/" mapleUltParams="sec=MediaNavigation_;pos=5"><span>生活綜合</span></a></li><li class="navitem"><a href="/lifestyle--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=6"><span>生活熱門</span></a></li><li class="navitem"><a href="https://tw.news.yahoo.com/video/weather/" mapleUltParams="sec=MediaNavigation_;pos=7"><span>一分鐘報氣象</span></a></li><li class="navitem"><a href="https://tw.rd.yahoo.com/referurl/video/navi/lifestyle/*https://tw.news.yahoo.com/video-lifestyle/" mapleUltParams="sec=MediaNavigation_;pos=8"><span>生活影音</span></a></li><li class="navitem"><a href="https://tw.news.yahoo.com/panda-taipei/" mapleUltParams="sec=MediaNavigation_;pos=9"><span>圓仔日記</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.campaign.yahoo.com/screen/gourmet/2014/" mapleUltParams="sec=MediaNavigation_;pos=10"><span>節慶聚餐</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.news.yahoo.com/991588122014-elle-article-1-093154464.html" mapleUltParams="sec=MediaNavigation_;pos=11"><span>頭皮剋星</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_lifestyle_xml_park&Keywords=%E6%B3%95%E4%BB%A4%E7%B4%8B%E6%B6%88%E9%99%A4" mapleUltParams="sec=MediaNavigation_;pos=12"><span>法令紋消除</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_lifestyle_xml_park&Keywords=%E5%A9%9A%E7%B4%97%E6%94%9D%E5%BD%B1" mapleUltParams="sec=MediaNavigation_;pos=13"><span>婚紗攝影</span></a></li></ul></div></li><li class="navitem"><a href="/art-edu/" mapleUltParams="sec=MediaNavigation_Main;pos=10"><span>文教</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/education/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>教育</span></a></li><li class="navitem"><a href="/art/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>藝文</span></a></li><li class="navitem"><a href="/art-edu--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>文教熱門</span></a></li><li class="navitem"><a href="https://tw.news.yahoo.com/english-news/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>看新聞學英文</span></a></li><li class="navitem"><a href="/easy-englsih-4/" mapleUltParams="sec=MediaNavigation_;pos=5"><span>英文怎麼說</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_art-edu_xml_park&Keywords=%E6%8C%87%E8%80%83" mapleUltParams="sec=MediaNavigation_;pos=6"><span>指考</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_art-edu_xml_park&Keywords=toeic" mapleUltParams="sec=MediaNavigation_;pos=7"><span>toeic</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_art-edu_xml_park&Keywords=%E5%85%8D%E8%B2%BB%E5%AD%B8%E8%8B%B1%E6%96%87" mapleUltParams="sec=MediaNavigation_;pos=8"><span>免費學英文</span></a></li></ul></div></li><li class="navitem"><a href="/health/" mapleUltParams="sec=MediaNavigation_Main;pos=11"><span>健康</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/disease/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>醫療衛生</span></a></li><li class="navitem"><a href="/beauty/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>美容保健</span></a></li><li class="navitem"><a href="/health--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>健康熱門</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_health_xml_park&Keywords=%E6%B7%A8%E6%B0%B4%E5%99%A8" mapleUltParams="sec=MediaNavigation_;pos=4"><span>淨水器</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_health_xml_park&Keywords=%E7%98%A6%E5%A4%A7%E8%85%BF" mapleUltParams="sec=MediaNavigation_;pos=5"><span>瘦大腿</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_health_xml_park&Keywords=%E6%B8%9B%E8%82%A5" mapleUltParams="sec=MediaNavigation_;pos=6"><span>減肥</span></a></li></ul></div></li><li class="navitem"><a href="/technology/" mapleUltParams="sec=MediaNavigation_Main;pos=12"><span>科技</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/information-3c/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>資訊3C</span></a></li><li class="navitem"><a href="/science/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>科學發展</span></a></li><li class="navitem"><a href="/environment/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>自然環境</span></a></li><li class="navitem"><a href="/technology--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>科技熱門</span></a></li><li class="navitem"><a href="https://tw.tech.yahoo.com/topic/" mapleUltParams="sec=MediaNavigation_;pos=5"><span>3C大事記</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_technology_xml_park&Keywords=%E5%A0%86%E9%AB%98%E6%A9%9F" mapleUltParams="sec=MediaNavigation_;pos=6"><span>堆高機</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_technology_xml_park&Keywords=%E6%8C%89%E6%91%A9%E6%A4%85" mapleUltParams="sec=MediaNavigation_;pos=7"><span>按摩椅</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_technology_xml_park&Keywords=%E7%A2%8E%E7%B4%99%E6%A9%9F" mapleUltParams="sec=MediaNavigation_;pos=8"><span>碎紙機</span></a></li></ul></div></li><li class="navitem"><a href="/travel/" mapleUltParams="sec=MediaNavigation_Main;pos=13"><span>旅遊</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/travel--最熱門/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>旅遊熱門</span></a></li><li class="navitem"><a href="https://tw.travel.yahoo.com/search/topic?query=%E9%81%94%E4%BA%BA%E5%B8%B6%E4%BD%A0%E7%8E%A9" mapleUltParams="sec=MediaNavigation_;pos=2"><span>達人帶你玩</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_travel_xml_park&Keywords=%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A" mapleUltParams="sec=MediaNavigation_;pos=3"><span>日本旅遊</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_travel_xml_park&Keywords=%E9%9F%93%E5%9C%8B%E6%97%85%E9%81%8A" mapleUltParams="sec=MediaNavigation_;pos=4"><span>韓國旅遊</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_travel_xml_park&Keywords=%E4%BA%A4%E5%8F%8B%E8%81%AF%E8%AA%BC" mapleUltParams="sec=MediaNavigation_;pos=5"><span>交友聯誼</span></a></li></ul></div></li><li class="navitem"><a href="/weather-forecast/" mapleUltParams="sec=MediaNavigation_Main;pos=14"><span>氣象</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="https://tw.news.yahoo.com/weather-forecast/weather-news/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>氣象新聞</span></a></li><li class="navitem"><a href="https://tw.news.yahoo.com/weather-forecast/tourspots/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>旅遊景點</span></a></li><li class="navitem"><a href="https://tw.news.yahoo.com/weather-forecast/globalweather/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>國際天氣</span></a></li><li class="navitem"><a href="https://tw.news.yahoo.com/weather-forecast/report/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>天氣概況</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_weather-forecast_xml_park&Keywords=%E5%A4%AA%E9%99%BD%E8%83%BD" mapleUltParams="sec=MediaNavigation_;pos=5"><span>太陽能</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_weather-forecast_xml_park&Keywords=%E9%98%B2%E8%B9%A3%E5%AF%A2%E5%85%B7" mapleUltParams="sec=MediaNavigation_;pos=6"><span>防螨寢具</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_weather-forecast_xml_park&Keywords=%E7%99%BC%E7%86%B1%E8%A1%A3" mapleUltParams="sec=MediaNavigation_;pos=7"><span>發熱衣</span></a></li></ul></div></li><li class="navitem"><a href="/odd/" mapleUltParams="sec=MediaNavigation_Main;pos=15"><span>新奇</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/comics/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>酷搜圖聞</span></a></li><li class="navitem"><a href="/video-funnews/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>FUN影音</span></a></li><li class="navitem"><a href="/news-package/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>影音懶人包</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_odd_xml_park&Keywords=%E7%8E%BB%E5%B0%BF%E9%85%B8" mapleUltParams="sec=MediaNavigation_;pos=4"><span>玻尿酸</span></a></li><li class="navitem gn_sub_blue"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_odd_xml_park&Keywords=%E6%A4%8D%E9%AB%AE" mapleUltParams="sec=MediaNavigation_;pos=5"><span>植髮</span></a></li><li class="navitem gn_sub_blue last"><a href="https://tw.linkspot.search.yahoo.com/sales/ysmlist.php?Partner=yahoo_tw_news_odd_xml_park&Keywords=led%E9%A1%AF%E7%A4%BA%E5%B1%8F" mapleUltParams="sec=MediaNavigation_;pos=6"><span>led顯示屏</span></a></li></ul></div></li><li class="navitem"><a href="/video/" mapleUltParams="sec=MediaNavigation_Main;pos=16"><span>影音</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/video-entertainment/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>影劇</span></a></li><li class="navitem"><a href="/video-general/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>綜合</span></a></li><li class="navitem"><a href="/video-lifestyle/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>生活</span></a></li><li class="navitem"><a href="/video-politics/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>政治</span></a></li><li class="navitem"><a href="/video-finance/" mapleUltParams="sec=MediaNavigation_;pos=5"><span>財經</span></a></li><li class="navitem"><a href="/video-sports/" mapleUltParams="sec=MediaNavigation_;pos=6"><span>運動</span></a></li><li class="navitem"><a href="/video-allworld/" mapleUltParams="sec=MediaNavigation_;pos=7"><span>國際</span></a></li><li class="navitem"><a href="/video-yahooexclusive/" mapleUltParams="sec=MediaNavigation_;pos=8"><span>YAHOO 獨家</span></a></li><li class="navitem"><a href="/video-funnews/" mapleUltParams="sec=MediaNavigation_;pos=9"><span>FUN影音</span></a></li><li class="navitem last"><a href="https://tw.news.yahoo.com/katiecouric/" mapleUltParams="sec=MediaNavigation_;pos=10"><span>凱蒂酷瑞克</span></a></li></ul></div></li><li class="navitem last"><a href="/blogs/" mapleUltParams="sec=MediaNavigation_Main;pos=17"><span>專欄</span></a><div class="nav-sub nav-1"><ul class="navlist subnavlist"><li class="navitem first"><a href="/blogs/society-watch/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>社會觀察</span></a></li><li class="navitem"><a href="/blogs/culture/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>休閒風尚</span></a></li><li class="navitem"><a href="/blogs/trend/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>哈燒趨勢</span></a></li><li class="navitem"><a href="/blogs/young-opinion/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>Y!oung觀點</span></a></li><li class="navitem last"><a href="/blogs/for-young/" mapleUltParams="sec=MediaNavigation_;pos=5"><span>給年輕人的信</span></a></li></ul></div></li></ul></div><div class="nav-stack nav-1"><ul class="navlist yog-grid"><li class="navitem first"><a href="/photos/" mapleUltParams="sec=MediaNavigation_;pos=1"><span>圖片集錦</span></a></li><li class="navitem"><a href="/most-popular/" mapleUltParams="sec=MediaNavigation_;pos=2"><span>熱門新聞</span></a></li><li class="navitem"><a href="/sentiment/informative/" mapleUltParams="sec=MediaNavigation_;pos=3"><span>心情新聞</span></a></li><li class="navitem"><a href="/archive/" mapleUltParams="sec=MediaNavigation_;pos=4"><span>新聞總覽</span></a></li><li class="navitem"><a href="/topic/" mapleUltParams="sec=MediaNavigation_;pos=5"><span>新聞專輯</span></a></li><li class="navitem"><a href="/mag/" mapleUltParams="sec=MediaNavigation_;pos=6"><span>雜誌專區</span></a></li><li class="navitem"><a href="/pollpage-news/" mapleUltParams="sec=MediaNavigation_;pos=7"><span>Yahoo民調中心</span></a></li><li class="navitem"><a href="https://tw.news.yahoo.com/katiecouric/" mapleUltParams="sec=MediaNavigation_;pos=8"><span>凱蒂酷瑞克</span></a></li><li class="navitem"><a href="/hot-topic/" mapleUltParams="sec=MediaNavigation_;pos=9"><span>人氣</span></a></li><li class="navitem last"><a href="https://tw.news.yahoo.com/year-in-review2014/" mapleUltParams="sec=MediaNavigation_;pos=10"><span>2014大事回顧</span></a></li></ul></div></div></div></div>
+            </div></header>
+            
+<script type="text/javascript">if(typeof rt_pushMoment!=='undefined')rt_pushMoment("t2");</script>
+            <div id="yog-bd" class="yog-bd" role="main">
+                
+<!-- START full -->
+
+<!-- START 24 -->
+<div class="yog-wrap yog-full">
+    <div class="yog-col yog-grid yog-24u">
+        <!-- -->
+
+
+
+
+
+    </div>
+</div>    
+
+
+<!-- END 24 -->
+
+<!-- START 16_8 -->
+<div class="yog-wrap yog-grid yog-24u">
+    <div class="yog-col yog-16u yom-primary">
+        <!-- --><script>var t_art_head = new Date().getTime();</script><div class="yom-mod yom-art-hd" id="mediaarticlehead"><div class="bd"><h1 class="headline">醫師少又老 未來恐無人看病</h1><a href="http://www.libertytimes.com.tw/" rel="nofollow" target="_blank"><img src="https://s1.yimg.com/bt/api/res/1.2/7wrNA36L7kOr0soorjmTCQ--/YXBwaWQ9eW5ld3M7Zmk9Zml0O2g9Mjc-/http://media.zenfs.com/155/2011/06/16/libertytimes-logo-jpg81x27_144916.jpg" alt="自由時報" title="" class="logo"></a><cite class="byline vcard"><span class="provider org">自由時報</span>&nbsp;&ndash;&nbsp;<abbr title="2014-12-19T22:10:35Z">2014年12月20日 上午6:10</abbr></cite></div></div>
+
+
+
+<div itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="datePublished" content="2014-12-19T22:10:35Z"/>
+	<meta itemprop="provider" content="自由時報"/>
+	<meta itemprop="headline" content="醫師少又老 未來恐無人看病"/>
+	<meta itemprop="description" content="5大專科 8年後缺7千多人〔自由時報記者林惠琴／台北報導〕國家衛生研究院（簡稱國衛院）研究發現，二○二二年，國內內科、外科、婦產科、兒科、急診科五大專科醫師的人力缺口將達七千多名 ..."/>
+	<div class="yom-mod yom-art-content " id="mediaarticlebody" itemprop="articleBody"><div class="bd"><!-- google_ad_section_start --><p class="first"><strong>5大專科 8年後缺7千多人</strong></p>
+<p>〔自由時報記者林惠琴／台北報導〕國家衛生研究院（簡稱國衛院）研究發現，二○二二年，國內內科、外科、婦產科、兒科、急診科五大專科醫師的人力缺口將達七千多名，而在職醫師多集中四十至五十九歲，婦產科更是六十歲以上占一半，醫師老化將大幅降低醫療服務提供量，民眾恐面臨沒醫師看病的困境！</p>
+<p><strong>內科缺最多 超過3千人</strong></p>
+<p>國衛院利用近十年的醫事管理系統資料庫，及二○○五年至二○一一年健保資料庫，評估五大專科醫師的供給與需求差異，發現八年後的醫師需求遠遠大於供給，人力不足成為醫療隱憂。</p>
+<p><strong>婦產科老最多 半數逾60歲</strong></p>
+<p>國衛院群體健康科學研究所所長熊昭表示，估計二○二二年，內科專科醫師將短缺三○九九至三七八○人，外科專科醫師則是短缺一○四四至一五一九名，婦產科、兒科、急診科也都有出缺情況，合計最高達七七六二名。</p>
+<p>醫師老化也是必須正視的問題，目前西醫整體平均年齡是四十八歲，但到二○二二年，五大專科醫師多以四十至五十九歲為主，目前以婦產科醫師平均年齡五十四歲最高，估計屆時六十歲以上的比例將達四十九％。</p>
+<p>回收逾五千份的醫師問卷發現，目前外科平均每週工時七十四．六一小時、內科六十四．八五小時、婦產科六十三．五五小時、兒科五十八．三八小時、急診科五十四．○二小時，要吸引年輕新血加入五大科，必須降低住院醫師工時、減少醫師面臨醫療糾紛的負擔、醫療過失刑責更明確，並調整健保支付標準。</p>
+<p>義大醫院教育副院長蔡淳娟和熊昭都直言，小病亂逛醫院，過度濫用醫療資源，恐怕會造成醫療崩壞，最後仍是病患權益受影響。</p>
+<p>&nbsp;■ <a href="https://tw.news.yahoo.com/2014%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%96%B0%E8%81%9E-%E5%A4%A9%E7%81%BD%E4%BA%BA%E7%A6%8D%E8%AE%93%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%82%B6%E7%88%86-041654959.html">【2014年度十大新聞】票選結果出爐囉</a><br>■ <a href="https://tw.news.yahoo.com/2014%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%96%B0%E8%81%9E%E4%BA%BA%E7%89%A9--%E9%AD%8F%E6%87%89%E5%85%85%E6%83%A1%E5%90%8D%E6%98%AD%E5%BD%B0%E5%A5%AA%E7%AC%AC%E4%B8%80-042737130.html">【2014年度十大新聞人物】快來看有誰上榜</a><br>■ <a href="https://tw.news.yahoo.com/2014%E5%8D%81%E5%A4%A7%E5%BF%83%E6%83%85%E6%96%B0%E8%81%9E--%E9%AD%9A%E4%B8%B8%E4%BC%AF%E5%96%84%E8%A1%8C%E6%84%9F%E4%BA%BA%E5%A5%AA%E7%AC%AC%E4%B8%80-043049462.html">【2014年度十大心情新聞】快來看什麼新聞讓人最火大</a><br> ■ <a href="https://tw.news.yahoo.com/year-in-review2014/">【看更多2014年度大事】</a><br><br></p>
+<p><strong>新聞相關圖片</strong></p>
+<p><strong><span id="yui_3_0_0-2-1419049513436" class="yui-editorial-embed"><span id="schemaorg"><span class="yom-figure yom-fig-left" style="width:310px;"><img title="&#xFF08;&#x5716;&#xFF0F;&#x4E2D;&#x6642;&#x96FB;&#x5B50;&#x5831;&#xFF09;" alt="&#xFF08;&#x5716;&#xFF0F;&#x4E2D;&#x6642;&#x96FB;&#x5B50;&#x5831;&#xFF09;" class="editorial " src="https://s.yimg.com/bt/api/res/1.2/tXINgZCA4lV1aVPx5n7Ohw--/YXBwaWQ9eW5ld3M7cT04NTt3PTMxMA--/http://media.zenfs.com/zh_hant_tw/News/Chinatimes/C03812002614.jpg" width="310"><span class="legend">（圖／中時電子報）</span></span></span></span></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!-- google_ad_section_end --></div></div>
+	</div><script>
+        function sendMessage (evt) {
+            if(evt.data=="readyToReceiveTimer")
+	            document.getElementById(evt.source.name).contentWindow.postMessage(t_headstart,"*");
+        }
+        if (window.addEventListener) {
+	        window.addEventListener("message", sendMessage, false);   
+        }
+        else {
+	        window.attachEvent("onmessage", sendMessage);
+        }</script><script>var t_art_body = new Date().getTime();</script>
+
+<div class="yom-mod yom-follow" id="mediasocialfollow"><div class="bd"><a href="https://www.facebook.com/pages/Yahoo%E5%A5%87%E6%91%A9%E6%96%B0%E8%81%9E/109249609124014" target="_blank" rel="nofollow">Facebook</a> <div class="yom-iframe-wrap" id="mediasocialfollowfb-ifr" style="width:90px;height:24px;"><noscript><iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FYahoo%25E5%25A5%2587%25E6%2591%25A9%25E6%2596%25B0%25E8%2581%259E%2F109249609124014&layout=button_count&show_faces=0&width=90&height=24&locale=zh_TW" frameborder="0" scrolling="no" style="width:90px;height:24px;"> </iframe></noscript></div>馬上按讚  加入Yahoo奇摩新聞粉絲團</div></div>
+<div class="yom-mod social-buttons" id="mediasocialbuttonseasy"><div class="bd"><div id="ymsb-14190881286448-1" class="ymsb ymsb-mail ymsb-facebook ymsb-retweet ymsb-plurk ymsb-googleplus ymsb-print"><div class="yui3-ymsb"><ul class="yui3-ymsb-content"><li class="ymsb-module fb-btn"><div class="fb-static"><span class="fb-icon"></span><span class="fb-text">推薦</span></div><div class="static-count hidden"><span class="count">0</span><span class="count-right"></span></div></li><li class="ymsb-module twttr-static-module"><div class="twttr-static"><span class="twttr-icon"></span><span class="twttr-text">推文</span></div><div class="static-count hidden"><span class="count">0</span><span class="count-right"></span></div></li><li class="ymsb-module ymsb-plurk-module">
+                    <a href="#" title="Plurk!" class="ymsb-plurk-btn" data-target="tab">
+                    <span>Plurk!</span></a></li><li class="ymsb-module gplus-static"><span class="gplus-icon"></span></li><li class="ymsb-module ymsb-print-module">
+                    <a href="#" title="列印" class="ymsb-print-btn" role="button"><span>列印</span></a></li></ul></div></div></div></div>
+<div class="yom-mod yom-sentiment-vote textimg-m textimg-s text-img-s" id="mediasentiment"><div class="bd"><p class="label"><span>看完覺得</span></p><form class="yom-sentiment-form" id="sentimentform" method="POST" action="/_xhr/sentiment/"><ul class="yom-sentiment-menu clearfix"><li class="informative first"><input type="radio" name="option" value="1" id="informative"><label for="informative"><a href="/_xhr/sentiment/?option=informative&mod_class=text-img-s&sec=mediasentiment&spaceid=2144404884" class="rapid-nf" style="width:75px" alt="實用" mapleUltParams="sec=mediasentiment;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=informative;slk=informative"><span> </span><div>實用</div></a></label></li><li class="warm"><input type="radio" name="option" value="9" id="warm"><label for="warm"><a href="/_xhr/sentiment/?option=warm&mod_class=text-img-s&sec=mediasentiment&spaceid=2144404884" class="rapid-nf" style="width:75px" alt="感人" mapleUltParams="sec=mediasentiment;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=warm;slk=warm"><span> </span><div>感人</div></a></label></li><li class="happy"><input type="radio" name="option" value="0" id="happy"><label for="happy"><a href="/_xhr/sentiment/?option=happy&mod_class=text-img-s&sec=mediasentiment&spaceid=2144404884" class="rapid-nf" style="width:75px" alt="開心" mapleUltParams="sec=mediasentiment;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=happy;slk=happy"><span> </span><div>開心</div></a></label></li><li class="odd"><input type="radio" name="option" value="3" id="odd"><label for="odd"><a href="/_xhr/sentiment/?option=odd&mod_class=text-img-s&sec=mediasentiment&spaceid=2144404884" class="rapid-nf" style="width:75px" alt="超扯" mapleUltParams="sec=mediasentiment;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=odd;slk=odd"><span> </span><div>超扯</div></a></label></li><li class="boring"><input type="radio" name="option" value="4" id="boring"><label for="boring"><a href="/_xhr/sentiment/?option=boring&mod_class=text-img-s&sec=mediasentiment&spaceid=2144404884" class="rapid-nf" style="width:75px" alt="無聊" mapleUltParams="sec=mediasentiment;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=boring;slk=boring"><span> </span><div>無聊</div></a></label></li><li class="worried"><input type="radio" name="option" value="11" id="worried"><label for="worried"><a href="/_xhr/sentiment/?option=worried&mod_class=text-img-s&sec=mediasentiment&spaceid=2144404884" class="rapid-nf" style="width:75px" alt="害怕" mapleUltParams="sec=mediasentiment;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=worried;slk=worried"><span> </span><div>害怕</div></a></label></li><li class="depressing"><input type="radio" name="option" value="2" id="depressing"><label for="depressing"><a href="/_xhr/sentiment/?option=depressing&mod_class=text-img-s&sec=mediasentiment&spaceid=2144404884" class="rapid-nf" style="width:75px" alt="難過" mapleUltParams="sec=mediasentiment;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=depressing;slk=depressing"><span> </span><div>難過</div></a></label></li><li class="angry last"><input type="radio" name="option" value="5" id="angry"><label for="angry"><a href="/_xhr/sentiment/?option=angry&mod_class=text-img-s&sec=mediasentiment&spaceid=2144404884" class="rapid-nf" style="width:75px" alt="火大" mapleUltParams="sec=mediasentiment;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=angry;slk=angry"><span> </span><div>火大</div></a></label></li></ul><input type="hidden" name="sharing" value="1,1,1"><input type="hidden" name="title" value="醫師少又老 未來恐無人看病 - Yahoo奇摩新聞"><input type="hidden" name="desc" value="閱讀Yahoo奇摩新聞上的「醫師少又老 未來恐無人看病」。 5大專科 8年後缺7千多人〔自由時報記者林惠琴／台北報導〕國家衛生研究院（簡稱國衛院）研究發現，二○二二年，國內內科、外科、婦產科、兒科、急診科五大專科醫師的人力缺口將達七千多名 ..."><input type="hidden" name="url" value="https://tw.news.yahoo.com/%E9%86%AB%E5%B8%AB%E5%B0%91%E5%8F%88%E8%80%81-%E6%9C%AA%E4%BE%86%E6%81%90%E7%84%A1%E4%BA%BA%E7%9C%8B%E7%97%85-221035281.html"><input type="hidden" name="title2" value="SENTIMENT_MORE_LIST_TITLE"><input type="hidden" name="id" value="0aa7e618-73a3-321f-8fad-eb6ec38bf07c"><input type="hidden" name="appid" value="90376669494"><input type="submit" name="submit" value="投票" class="sentiment-submit-btn"></form><div class="sentiment-disable icon-ajax-loader-white">Loading...</div></div></div>
+
+<!-- START section_16 -->
+<div class="yog-wrap yog-grid yog-16u">
+    <div class="yog-col yom-section yog-16u">
+        <!-- -->
+<!-- START 8_8 -->
+<div class="yog-wrap">
+    <div class="yog-col yog-8u">
+        <!-- --><div class="yom-mod yom-section-list" id="mediasectionlist"><div class="hd"><h3><a href="/" class="more" mapleUltParams="pos=0"><em>頭條新聞</em> »</a></h3></div><div class="bd"><ul class="yom-list"><li class="first"><div><div class="content"><a href="/市政顧問請辭多-柯文哲-上任後溝通-060054886.html" title="特別通令各局處，上任一百天內，要交出讓市民有感的成績單。" mapleUltParams="pkg=57389887-6c09-3740-8a8f-ca19d9d992bd;ver=41c132b0-884c-11e4-bd71-61b2c947df02;pos=1">市政顧問請辭多 柯要再溝通</a></div></div></li><li><div><div class="content"><a href="/尋找苗栗人-陳為廷招募志工-094632925.html" title="（中央社記者廖壬楷台中20日電）將參與苗栗縣立法委員補選的陳為廷，今天下午在台中市舉行第一場志工招募活動，吸引80名中部的青年及苗栗人參與。 ..." mapleUltParams="pkg=88595b9a-40a6-3c5c-b31f-2ed206a9514a;ver=d68b4af9-8858-11e4-bf9a-ff4caee734ac;pos=2">拚立委補選 陳為廷招募志工</a></div></div></li><li><div><div class="content"><a href="/日人對陸韓無好感-創新高-104433101.html" title="（中央社記者楊明珠東京20日專電）日本內閣府實施有關外交的民調顯示，回答對中國大陸無好感的日本人占83%、對南韓無好感者占66%，分別創新高紀錄 ..." mapleUltParams="pkg=47e5d08c-8c16-3719-b8be-bc74088e7cb3;ver=740412b7-8851-11e4-bf6d-e0805d97170e;pos=3">日人對中韓無好感 創下新高</a></div></div></li><li><div><div class="content"><a href="/毛揆-助青年居-研究釋公有地-132535864.html" title="（中央社記者唐佩君台北20日電）行政院長毛治國說，政府重視青年居住問題，如學校宿舍不足或初入社會就業住宿負擔過重等，必要時可研究以公有土地降低成本 ..." mapleUltParams="pkg=c3ea2c48-5b8f-3542-81a7-b6d371a8193b;ver=0d432b91-884e-11e4-92fc-101a7d9faaf9;pos=4">毛揆：助青年居  研究釋公有地</a></div></div></li><li><div><div class="content"><a href="/大專宿舍不足-教部規劃青年城-132235795.html" title="（中央社記者陳至中台北20日電）大專宿舍供給量不足，全國有22萬名大專生必須在校外租房子。教育部規劃「青年創意生活城」，打破學校界線，滿足區域內的大專及青年住宿需求 ..." mapleUltParams="pkg=ca396dd0-8d62-3df2-a259-5508ffa2c4cf;ver=ed16bd61-884c-11e4-b7ef-5236c48cb866;pos=5">大專宿舍不足 教部規劃青年城</a></div></div></li><li><div><div class="content"><a href="/周玉蔻指收頂新2億-國民黨22日提告-131300488.html" title="針對資深媒體人周玉蔻連日來引述不具名前國安高層的消息來源，指控國民黨私下收受頂新集團新台幣2億元的政治獻金，並指控國民黨副秘書長林德瑞為頂新門神一事 ..." mapleUltParams="pkg=391ad3ae-3f6c-3b4c-8e08-7835728d07f9;ver=c0efc021-884b-11e4-b6f7-7aad01112851;pos=6">周玉蔻指收頂新2億 國民黨周一提告</a></div></div></li><li class="classickick last">    <div class="classickick Dn" data-ad="pencil" data-ad-remove='{"class":"Dn"}'>
+        <div class="content">
+            <a href="#" class="title" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}'></a>
+            <div class="Whs-nw ads-sponsored-text">
+                <span class="provider"><a rel="nofollow" href="#" data-ad-replace='{"_markup":"source","href":"landingUrl"}' class="ad-source"></a></span>
+                <a rel="nofollow" href="https://help.yahoo.com/kb/SLN22774.html?impressions=true" target="_blank" class="ad-sponsored">
+                    <span class="C-darkGrey Fz-xs">Sponsored </span>
+                </a>
+
+                <a rel="nofollow" data-ad-remove='{"class":"Dn"}' class="Dn" href="https://info.yahoo.com/privacy/tw/yahoo/relevantads.html" target="_blank">
+                    <i class="Icon C-darkGrey ">&#xe080;</i>
+                </a>
+            </div>
+        </div>
+    </div></li></ul></div></div>
+    </div>
+    <div class="yog-col yog-8u">
+        <!-- --><div class="yom-mod yom-section-list" id="mediasectionlist_2"><div class="hd"><h3><a href="/archive/" class="more" mapleUltParams="pos=0"><em>最新新聞</em> »</a></h3></div><div class="bd"><ul class="yom-list"><li class="first"><div><div class="content"><a href="/處女座本周運勢-12-14-12-20-150733573.html" title="處女座本周整體運勢3顆星..." mapleUltParams="pkg=e192da0d-efbb-31a4-bf67-514dec270db1;ver=f0a09481-8859-11e4-b3da-b2a6217e9fd3;pos=1">處女座本周運勢(12/14~12/20)</a></div></div></li><li><div><div class="content"><a href="/uba-闕毓萱抱傷上陣-林心茹三分球8中5-台科大開胡首勝-145700317--nba.html" title="上役輸文化終場前受傷扶出的闕毓萱，14日再出發拿16分，「玉女射手」林心茹三分球8中5添15分、5籃板、4抄截，聯手率地主台科大80：58擊敗國北教大 ..." mapleUltParams="pkg=c5951d3d-8a5d-3ff6-8a21-71004b86b0a5;ver=b8b16d61-8859-11e4-bf7b-31cb7476d65e;pos=2">​UBA／闕毓萱抱傷上陣、林心茹三分球8中5　台科大開胡首勝</a></div></div></li><li><div><div class="content"><a href="/【夜間新聞】每晚11時更新-145647366.html" title="每晚11點，小編送上【夜間新聞】，讓你隨身聽、隨時看！" mapleUltParams="pkg=cf50029f-b67b-3d33-b235-66d2ea0ac8a2;ver=6d42ee43-8858-11e4-b7dd-49c6f83d130a;pos=3">【夜間新聞】每晚11時更新</a></div></div></li><li><div><div class="content"><a href="/uba-單節3記三分球拿全隊11分-佛光菜鳥後衛彭慧貞的-改變-145600861--nba.html" title="「單節連飆3記三分球連拿全隊11分，確是我生涯頭一遭，但輸球就不值得一提！」佛光大學14日62：64不敵台北市大天母校區，吞下103學年度UBA大專籃賽公開女一級預賽首敗後 ..." mapleUltParams="pkg=17e230b1-020a-305b-a46e-7ca66902e2c1;ver=b8f8af90-8859-11e4-be77-d9c4185befab;pos=4">UBA／單節3記三分球拿全隊11分　佛光菜鳥後衛彭慧貞的「改變」</a></div></div></li><li><div><div class="content"><a href="/快訊-國道8號嚴重車禍-4人失去意識緊急送醫-145500413.html" title="台南市國道8號高速公路起點，晚間8時40分左右發生一起重大車禍，一輛由北往南的轎車，行經十字路口，遭一輛西往東準備上國道8號的遊覽車，直接撞擊右側 ..." mapleUltParams="pkg=6b37a9fa-f600-3347-a35e-ca99defe274c;ver=717b7261-8859-11e4-bfa7-3d4fc5edda51;pos=5">〈快訊〉國道8號嚴重車禍　4人失去意識緊急送醫</a></div></div></li><li><div><div class="content"><a href="/快訊-3樓透天厝火警-傳屋主受困-警消救援-145400366.html" title="最新消息，三重重陽路四段126巷，傳出民宅火警，火舌迅速竄出，由於報案人說，屋子裡面可能有一人受困，消防隊員全力打火、搜救。" mapleUltParams="pkg=3fd1d5ba-fb80-3742-b26f-545844f0f1f1;ver=7117f5a1-8859-11e4-879b-b35f429d396b;pos=6">〈快訊〉3樓透天厝火警！傳屋主受困　警消救援</a></div></div></li><li class="classickick last">    <div class="classickick Dn" data-ad="pencil" data-ad-remove='{"class":"Dn"}'>
+        <div class="content">
+            <a href="#" class="title" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}'></a>
+            <div class="Whs-nw ads-sponsored-text">
+                <span class="provider"><a rel="nofollow" href="#" data-ad-replace='{"_markup":"source","href":"landingUrl"}' class="ad-source"></a></span>
+                <a rel="nofollow" href="https://help.yahoo.com/kb/SLN22774.html?impressions=true" target="_blank" class="ad-sponsored">
+                    <span class="C-darkGrey Fz-xs">Sponsored </span>
+                </a>
+
+                <a rel="nofollow" data-ad-remove='{"class":"Dn"}' class="Dn" href="https://info.yahoo.com/privacy/tw/yahoo/relevantads.html" target="_blank">
+                    <i class="Icon C-darkGrey ">&#xe080;</i>
+                </a>
+            </div>
+        </div>
+    </div></li></ul></div></div>
+    </div>
+</div>
+           
+<!-- END 8_8 -->
+    </div>
+</div>    
+       
+<!-- END section_16 -->
+<div class="yom-mod yom-top-story" id="mediatopstorytemp"><div class="hd"><h3><a href="/所有類別--最多人瀏覽/most-popular/" class="more"><em>最多瀏覽新聞</em> »</a></h3></div><div class="bd"><div class="yom-top-story-content-0"><span><ul class="yom-list list-titlethumbsummary yom-list-large"><li class="nothumb clearfix first"><div class="content"><div class="txt"><a href="/戲說綠葉-天冷猝死家中-221105413.html" mapleUltParams="pkg=5b8609ba-fbe4-3a58-8989-21e22b396d3c;ver=ee3ea031-87cb-11e4-abff-0632385b3c1f;ccode=ct.c;pos=1;lt=ci">戲說綠葉 天冷猝死家中</a><cite> 自由時報 - 2014年12月20日 上午6:11</cite></div><div class="preview"><div class="yom-mod" id="mediatopstorytemp"><div class="bd"><div class="content"><p>〔自由時報記者鄭淑婷／桃園報導〕52歲的本土劇演員萬鴻貴，昨天早上被發現陳屍在桃園市住處，死亡時間約2天；警方訪查家屬，萬鴻貴近來心臟不適，定期服用藥物 ...</p></div></div></div></div></div></li><li class="nothumb clearfix"><div class="content"><div class="txt"><a href="/看見台灣-東京首映-玉山拍手歌惹哭觀眾-211200361.html" mapleUltParams="pkg=c576284c-8b6a-3925-9b12-06c493df4a08;ver=15f14e31-87df-11e4-a50e-54ca0112c437;ccode=ct.c;pos=2;lt=ci">「看見台灣」東京首映 玉山拍手歌惹哭觀眾</a><cite> 聯合新聞網 - 2014年12月20日 上午5:12</cite></div><div class="preview"><div class="yom-mod" id="mediatopstorytemp"><div class="bd"><div class="content"><p>「看見台灣」紀錄片去年在台掀起熱潮，一年後，日文版「來自天空的邀請」昨晚在日本東京首映。戲院燈光亮起，響起如雷掌聲，不少觀眾感動掉淚。昨天的首映由台達電子包場 ...</p></div></div></div></div></div></li><li class="nothumb clearfix"><div class="content"><div class="txt"><a href="/有人教我們走河床-女大生暗夜迷走北屯山-050335306.html" mapleUltParams="pkg=ffed64a9-8905-371c-aa79-2d8bf475322d;ver=3f1abfe0-8801-11e4-997f-c5912756a462;ccode=ct.c;pos=3;lt=ci">「有人教我們走河床」 　女大生暗夜迷走北屯山</a><cite> 東森新聞 - 2014年12月19日 下午1:03</cite></div><div class="preview"><div class="yom-mod" id="mediatopstorytemp"><div class="bd"><div class="img"><a href="/有人教我們走河床-女大生暗夜迷走北屯山-050335306.html" mapleUltParams="pkg=ffed64a9-8905-371c-aa79-2d8bf475322d;ver=3f1abfe0-8801-11e4-997f-c5912756a462;ccode=ct.c;pos=3;lt=ci"><img src="https://s.yimg.com/bt/api/res/1.2/6xQXiOkdAUxrxfu8L3SAxA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTcwO3E9NzU7dz03MA--/http://media.zenfs.com/zh-Hant-TW/News/ebc/1418965415.jpg" width="70" height="70" alt="「有人教我們走河床」 　女大生暗夜迷走北屯山" title=""></a></div><div class="content"><p>台中市兩名女大學生騎車到北屯區中正露營區，由四號步道爬上山，走了至少五小時，都天黑了卻迷路，女大生未帶照明設備，又聽到狗不停吠叫，嚇得皮皮挫 ...</p></div></div></div></div></div></li><li class="nothumb clearfix"><div class="content"><div class="txt"><a href="/不滿遴選制度-18顧問遴委走人-215033862.html" mapleUltParams="pkg=2f1e64c1-2c83-3ef3-8832-8afa7d4b47f5;ver=095e03f0-8813-11e4-b4de-2d4d36f4c012;ccode=ct.c;pos=4;lt=ci">不滿遴選制度 18顧問遴委走人</a><cite> 中時電子報 - 2014年12月20日 上午5:50</cite></div><div class="preview"><div class="yom-mod" id="mediatopstorytemp"><div class="bd"><div class="img"><a href="/不滿遴選制度-18顧問遴委走人-215033862.html" mapleUltParams="pkg=2f1e64c1-2c83-3ef3-8832-8afa7d4b47f5;ver=095e03f0-8813-11e4-b4de-2d4d36f4c012;ccode=ct.c;pos=4;lt=ci"><img src="https://s1.yimg.com/bt/api/res/1.2/NTYIlX4n5ZOPo4avfd31Pw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTcwO3E9NzU7dz03MA--/http://media.zenfs.com/zh_hant_tw/News/cna/20141106000024M.jpg" width="70" height="70" alt="柯文哲回應竊聽案（1） (圖)." title=""></a></div><div class="content"><p>中國時報【陳芃╱台北報導】準台北市長柯文哲標榜「開放政府」，多位局處首長都是透過遴選產生，非由他「欽點」，絕大多數首長雖都到位了，但不尊重專業 ...</p></div></div></div></div></div></li><li class="nothumb clearfix"><div class="content"><div class="txt"><a href="/2014神梗回顧超展開-雞排妹吃飯打砲超激-221106160.html" mapleUltParams="pkg=c76b8c34-ec3f-345e-8040-c9fcf2508cdb;ver=d7b7d4f0-8814-11e4-bffe-869252de3657;ccode=ct.c;pos=5;lt=ci">2014神梗回顧超展開 雞排妹吃飯打砲超激</a><cite> 自由時報 - 2014年12月20日 上午6:11</cite></div><div class="preview"><div class="yom-mod" id="mediatopstorytemp"><div class="bd"><div class="content"><p>記者易慧慈、曾德蓉／專題報導2014年不知不覺就「咻」地滑進尾聲，又到清算藝人年度成績的時期，今年演藝圈依舊不甘寂寞，萬梗齊發，本報秉持服務到位的精神 ...</p></div></div></div></div></div></li><li class="nothumb clearfix last"><div class="content"><div class="txt"><a href="/尬的-女星婚前搞3p-床照外洩-021120810.html" mapleUltParams="pkg=e90ea9e3-5863-318a-8be2-548f48a0c7c7;ver=ade7de80-87fc-11e4-8f63-2178ef46432c;ccode=ct.c;pos=6;lt=ci">尬的！女星婚前搞3P　床照外洩</a><cite> NOWnews - 2014年12月20日 上午10:11</cite></div><div class="preview"><div class="yom-mod" id="mediatopstorytemp"><div class="bd"><div class="content"><p>許茹芸與韓籍夫婿崔栽誠（BIG），今年9月12日在首爾舉辦世紀婚禮，11月8日登記結婚，成為幸福人妻。但昨（19）日凌晨卻在微博自曝「3P床照」</p></div></div></div></div></div></li></ul></span></div><div class="loading hide">&nbsp;</div></div></div>
+
+<div class="yom-mod yom-bcarousel ymg-carousel rapid-nf" id="mediabcarouselmixedlpca"><div class="hd"><div class="yui-carousel-nav"><div class="heading"><h3><a href="/photos/">精選畫面</a></h3></div><![if gte IE 7]><div class="hidden controls ymg-carousel-nav-wrap"><div class="pagination yui-carousel-pagination">1 - 4 / 4</div><div class="ymg-nav-buttons"><a href="#previous" class="prev-page yui-carousel-button yui-carousel-prev yom-button yui-carousel-first-button-disabled rapid-nf"><span><strong>上一頁</strong></span></a><a href="#next" class="next-page yui-carousel-button yui-carousel-next yom-button rapid-nf"><span><strong>下一頁</strong></span></a></div></div><![endif]></div></div><div class="bd"><div class="yui3-bcarousel yui3-scrollview tpl-tile no-cite"><ul class="bcarousel-pages yui3-bcarousel-content cols-4 ratio-4x3 item_bg-white title-2 cite-0"><li class="bcarousel-page"><ul class="bcarousel-items"><li class="bcarousel-item" data-id="840ed769-de6e-38ea-a876-dd7661bd56a1"><div class="item-wrap"><a href="/lightbox/冷氣團-slideshow/" class="img-wrap"  mapleUltParams="pkg=840ed769-de6e-38ea-a876-dd7661bd56a1;ver=23145fa1-884b-11e4-9d55-9d94e8877351;lt=i;pos=1"><!--[if lte IE 7]><div class = "bcarousel-ie6"><![endif]--><img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/nHbnOoS1Dxh_meheRXD8bQ--/YXBwaWQ9eW5ld3M7Y2g9MjgzO2NyPTE7Y3c9Mzc5O2R4PTkxO2R5PTA7Zmk9dWxjcm9wO2g9MTEyO3E9NzU7dz0xNTA-/http://media.zenfs.com/zh_hant_tw/News/tvbs/20141220130103635.jpg');" width="150" height="112" alt="入冬第一波寒流發威" title="" class="lzbg"><div class="icon icon-medium icon-slideshow-medium" data-ad-add='{"class":"Dn"}'> </div><!--[if lte IE 7]></div><![endif]--></a><div class="txt"><p class="title"><a href="/lightbox/冷氣團-slideshow/" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=840ed769-de6e-38ea-a876-dd7661bd56a1;ver=23145fa1-884b-11e4-9d55-9d94e8877351;lt=i;pos=1">入冬第一波寒流發威</a></p></div></div></li><li class="bcarousel-item" data-id="4735dba0-64f3-11e4-bfdd-5472eeaa5f94"><div class="item-wrap"><a href="/lightbox/影劇照片錦集-slideshow/" class="img-wrap"  mapleUltParams="pkg=4735dba0-64f3-11e4-bfdd-5472eeaa5f94;ver=4be834e1-8839-11e4-b36b-760788082bf9;lt=i;pos=2"><!--[if lte IE 7]><div class = "bcarousel-ie6"><![endif]--><img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/2YtAKuc1dF0QnszBiBibxQ--/YXBwaWQ9eW5ld3M7Y2g9MzM2O2NyPTE7Y3c9NDUwO2R4PTA7ZHk9NTA7Zmk9dWxjcm9wO2g9MTEyO3E9NzU7dz0xNTA-/http://media.zenfs.com/zh_hant_tw/News/Chinatimes/C03C20000856.jpg');" width="150" height="112" alt="影劇集錦" title="" class="lzbg"><div class="icon icon-medium icon-slideshow-medium" data-ad-add='{"class":"Dn"}'> </div><!--[if lte IE 7]></div><![endif]--></a><div class="txt"><p class="title"><a href="/lightbox/影劇照片錦集-slideshow/" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=4735dba0-64f3-11e4-bfdd-5472eeaa5f94;ver=4be834e1-8839-11e4-b36b-760788082bf9;lt=i;pos=2">影劇集錦</a></p></div></div></li><li class="bcarousel-item" data-id="94ed9c77-ed76-3dc5-bd71-4c551b264922" data-provider-id="video.nexttv.com"><div class="item-wrap"><a href="/video/轟-夜半爆炸烈火噬-屋主夫婦驚慌逃-064613635.html" class="img-wrap"  mapleUltParams="pkg=94ed9c77-ed76-3dc5-bd71-4c551b264922;lt=i;pos=3"><!--[if lte IE 7]><div class = "bcarousel-ie6"><![endif]--><img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/3AH_03CFVAOQ8kgS4jofOQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTExMjtweW9mZj0wO3E9NzU7dz0xNTA-/http://d.yimg.com/hd/nexttv/lotus/1c0422be-a60b-46fe-9455-4077d808cb8f_eGa5CuFyWMCy0sWyxfpdTgrc5Wnju8L_F91uLGjh0xqubSOAHOZhZdhacZaVk0b6XbzdzlCXJ10-_2_0.jpg?s=7f6e8c5108606f12074562d4555b47c4&c=e581ca2a0b02d146cc525be52653846a&a=nexttv&mr=0');" width="150" height="112" alt="轟!夜半爆炸烈火噬　屋主夫婦驚慌逃" title="" class="lzbg"><div class="icon icon-medium icon-play-small" data-ad-add='{"class":"Dn"}'> </div><!--[if lte IE 7]></div><![endif]--></a><div class="txt"><p class="title"><a href="/video/轟-夜半爆炸烈火噬-屋主夫婦驚慌逃-064613635.html" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=94ed9c77-ed76-3dc5-bd71-4c551b264922;lt=i;pos=3">轟!夜半爆炸烈火噬　屋主夫婦驚慌逃</a></p></div></div></li><li class="bcarousel-item" data-id="85af2241-d139-32c6-ab1c-e3445e1db081" data-provider-id="video.asiaebc.com"><div class="item-wrap"><a href="/video/富少成階下囚-未婚妻挺8月孕-苦苦守候-140500500.html" class="img-wrap"  mapleUltParams="pkg=85af2241-d139-32c6-ab1c-e3445e1db081;lt=i;pos=4"><!--[if lte IE 7]><div class = "bcarousel-ie6"><![endif]--><img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/vkGPv4fgg3yGH2.JbUrWJA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTExMjtweW9mZj0wO3E9NzU7dz0xNTA-/http://media.zenfs.com/zh-Hant-TW/video/video.asiaebc.com/EBC_20141220_51689_576wx324h.jpg');" width="150" height="112" alt="富少成階下囚！   未婚妻挺8月孕 苦苦守候" title="" class="lzbg"><div class="icon icon-medium icon-play-small" data-ad-add='{"class":"Dn"}'> </div><!--[if lte IE 7]></div><![endif]--></a><div class="txt"><p class="title"><a href="/video/富少成階下囚-未婚妻挺8月孕-苦苦守候-140500500.html" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=85af2241-d139-32c6-ab1c-e3445e1db081;lt=i;pos=4">富少成階下囚！   未婚妻挺8月孕 苦苦守候</a></p></div></div></li></ul></li></ul></div></div></div>
+<div class="yom-mod yom-ib-list" id="mediainfinitebrowselist"><div class="hd"><h3>延伸閱讀</h3></div><div class="bd thumb"><ul class="yom-list"><li class="first"><a href="/研究-所有老年人均應服降膽固醇藥-023900367.html" title="根據24日公布的一項最新研究，不管是否有膽固醇過高的問題，建議所有年齡在66至75歲的老年人，都應該服用降膽固醇藥物斯達汀(statins) ..." mapleUltParams="_S=2144404884;t=1771006583;ibsec=ib_result;ct=article;pos=l1;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/研究-所有老年人均應服降膽固醇藥-023900367.html;pkg=782c8dd1-9730-3ff4-8eeb-d1326d1ecc37;slk=title;src_pty=media">研究：所有老年人均應服降膽固醇藥</a></li><li><a href="/希拉蕊問鼎白宮-傳耶誕後宣布-025457378.html" title="（中央社記者鄭崇生華盛頓14日專電）和柯林頓家族關係緊密的維吉尼亞州州長麥考里夫（Terry McAuliffe）說，「美國是時候有個女總統了」 ..." mapleUltParams="_S=2144404884;t=1017869206;ibsec=ib_result;ct=article;pos=l2;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/希拉蕊問鼎白宮-傳耶誕後宣布-025457378.html;pkg=5b56f6c1-d948-32c1-89ba-3729c78343ba;slk=title;src_pty=media">希拉蕊問鼎白宮  傳耶誕後宣布</a></li><li><a href="/聯發科-三大法人大買-215033175--finance.html" title="工商時報【楊曉芳】聯發科（2454）累計前3季EPS達23.41元，預估第4季合併營收介於540∼586億元，毛利率介於47.5∼49.5％ ..." mapleUltParams="_S=2144404884;t=2140117168;ibsec=ib_result;ct=article;pos=l3;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/聯發科-三大法人大買-215033175--finance.html;pkg=e2044ac1-429a-351d-afe8-aeaa79a91f10;slk=title;src_pty=media">聯發科 三大法人大買</a></li><li><a href="/大食代日本美食pk賽-215033307--finance.html" title="工商時報【吳正弘】最近到大食代吃日本美食，對日圓貶值應該更有感！即日起至11月30日，大食代集合三家店共同推出「日本美食PK賽」，舉凡溫屋烏龍麵 ..." mapleUltParams="_S=2144404884;t=1610872586;ibsec=ib_result;ct=article;pos=l4;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/大食代日本美食pk賽-215033307--finance.html;pkg=99347a6a-f7e5-3e37-9e97-ae9c920e584b;slk=title;src_pty=media">大食代日本美食PK賽</a></li><li><a href="/晶華推雪白夢幻饗宴-215033018--finance.html" title="工商時報【吳正弘】台北晶華酒店日前再度邀請西班牙教父級甜點主廚－修帝•普依維特（Jordi Puigvert），帶來以頂級巧克力－米歇爾•科茲為原料 ..." mapleUltParams="_S=2144404884;t=1275727884;ibsec=ib_result;ct=article;pos=l5;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/晶華推雪白夢幻饗宴-215033018--finance.html;pkg=81313911-177f-317c-a0bd-f6f65235fe36;slk=title;src_pty=media">晶華推雪白夢幻饗宴</a></li><li><a href="/史瓦濟蘭醫療資源匱乏-北醫大出人出力-082000985.html" title="（健康醫療網／記者郭庚儒報導）史瓦濟蘭是台灣友邦，但生活及飲食環境普遍不佳，寄生蟲感染率相當高，愛滋病盛行率更高居全球之冠。5年前，台北醫學大學開始派遣醫療團常駐 ..." mapleUltParams="_S=2144404884;t=1645572265;ibsec=ib_result;ct=article;pos=l6;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/史瓦濟蘭醫療資源匱乏-北醫大出人出力-082000985.html;pkg=435a2879-bc7f-3830-9b6f-ca73ada7e952;slk=title;src_pty=media">史瓦濟蘭醫療資源匱乏　北醫大出人出力</a></li><li class="last"><a href="/半季全壘打王-高國輝拚全勤-221044301--spt.html" title="義大犀牛高國輝今年只打半季就以18轟勇奪全壘打王，被球團列為加薪最多球員，明年底才到期的3年合約可能換約重簽，他表示，目前只想為明年做好準備 ..." mapleUltParams="_S=2144404884;t=1682186481;ibsec=ib_result;ct=article;pos=l7;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/半季全壘打王-高國輝拚全勤-221044301--spt.html;pkg=0998ca47-3522-38f0-855b-e8a556b7821c;slk=title;src_pty=media">半季全壘打王 高國輝拚全勤</a></li></ul><ul class="img-list"><li class="story first"><div class="img"><a href="/lightbox/微軟傳向中國補繳11億稅款-photo-065102753.html" mapleUltParams="_S=2144404884;t=2071249310;ibsec=ib_result;ct=photo;pos=r1;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/lightbox/微軟傳向中國補繳11億稅款-photo-065102753.html;pkg=40c74ebd-c0d0-3402-9c68-68a0b5a669b6;slk=thumb;src_pty=media"><img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/cqy5Qq27cciyliRr2QJSww--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ5O3B4b2ZmPTUwO3B5b2ZmPTA7cT03NTt3PTY1/http://d.yimg.com/hd/fintv/4/5/d0268c2a-c9af-4365-bc5f-2188d813b270_oyOSU6l2DpHL6pgwrzX8wIBYp5zikj8LUPEdzr9anKR1n2DxeFaaWfhvQmwnUrXvOT82NV7wras-_1_0.jpg?s=0571eb26c7190da5ede0fe7b090202ec&c=3e71f27b73f1bd2f9149c9e9fae571f7&a=fintv&mr=0');" width="65" height="49" alt="微軟傳向中國補繳11億稅款" title="微軟傳向中國補繳11億稅款" class="lzbg"><span class="icon-container icon-slideshow"> </span></a></div><div class="txt"><a href="/lightbox/微軟傳向中國補繳11億稅款-photo-065102753.html" title="據《路透》報道，中國當局要求微軟補繳1.4億美元，折合約11億港元稅款。報道稱，一家名稱以「M」開頭" mapleUltParams="_S=2144404884;t=998397689;ibsec=ib_result;ct=photo;pos=r1;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/lightbox/微軟傳向中國補繳11億稅款-photo-065102753.html;pkg=40c74ebd-c0d0-3402-9c68-68a0b5a669b6;slk=title;src_pty=media">微軟傳向中國補繳11億稅款</a><cite>現代電視</cite></div></li><li class="story"><div class="img"><a href="/lightbox/小行星墜落內蒙古-黑夜如白晝-photo-072102903.html" mapleUltParams="_S=2144404884;t=2118405917;ibsec=ib_result;ct=photo;pos=r2;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/lightbox/小行星墜落內蒙古-黑夜如白晝-photo-072102903.html;pkg=e8f8e34c-641b-3491-b800-95802e3b3c43;slk=thumb;src_pty=media"><img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/sPqbzaJWfAMeb.FcH5XJ5w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ5O3B4b2ZmPTUwO3B5b2ZmPTA7cT03NTt3PTY1/http://d.yimg.com/hd/fintv/4/9/2d1b0275-131a-43cb-95f3-c7c54bc82fa1_MNEWZgsnCZbpWSab7Pr_yIyo-IE8eyg6f4uoX2jF73vHbRbdlLfsPhbCodM7E51YKMT7BH_bPQA-_2_0.jpg?s=43b9138bd04eda11898d700d591f474d&c=c57d8da16b18482bc52fe11b8a587fa1&a=fintv&mr=0');" width="65" height="49" alt="小行星墜落內蒙古 黑夜如白晝" title="小行星墜落內蒙古 黑夜如白晝" class="lzbg"><span class="icon-container icon-slideshow"> </span></a></div><div class="txt"><a href="/lightbox/小行星墜落內蒙古-黑夜如白晝-photo-072102903.html" title="一顆疑似小行星日前於凌晨時份，在內蒙古錫林郭勒盟上空墜落，其後有網友上傳當日的戶外閉路電視畫面，記錄" mapleUltParams="_S=2144404884;t=2045524641;ibsec=ib_result;ct=photo;pos=r2;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/lightbox/小行星墜落內蒙古-黑夜如白晝-photo-072102903.html;pkg=e8f8e34c-641b-3491-b800-95802e3b3c43;slk=title;src_pty=media">小行星墜落內蒙古 黑夜如白晝</a><cite>現代電視</cite></div></li><li class="story last"><div class="img"><a href="/lightbox/張娜拉朴信惠等女演員裸妝術-photo-053906135.html" mapleUltParams="_S=2144404884;t=1004502322;ibsec=ib_result;ct=photo;pos=r3;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/lightbox/張娜拉朴信惠等女演員裸妝術-photo-053906135.html;pkg=706dae76-65d9-3f05-aa6e-96c427b39793;slk=thumb;src_pty=media"><img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/BaoQQKHzH6vg8G2HvC2MWA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ5O3B4b2ZmPTUwO3B5b2ZmPTA7cT03NTt3PTY1/http://media.zenfs.com/ko_KR/News/bntnews.cn/72rkdgq94l6zbgws7nw5ppkwvgjbt2yq.jpg');" width="65" height="49" alt="張娜拉朴信惠等女演員裸妝術" title="張娜拉朴信惠等女演員裸妝術" class="lzbg"><span class="icon-container icon-slideshow"> </span></a></div><div class="txt"><a href="/lightbox/張娜拉朴信惠等女演員裸妝術-photo-053906135.html" title="張娜拉朴信惠等女演員裸妝術" mapleUltParams="_S=2144404884;t=1993042542;ibsec=ib_result;ct=photo;pos=r3;staid=e02497d9-8905-3d79-83e0-d4eadf760b33;csrcpvid=JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII;enttype=related;turl=https://tw.news.yahoo.com/lightbox/張娜拉朴信惠等女演員裸妝術-photo-053906135.html;pkg=706dae76-65d9-3f05-aa6e-96c427b39793;slk=title;src_pty=media">張娜拉朴信惠等女演員裸妝術</a><cite>bnt新聞</cite></div></li></ul></div></div>
+<div class="yom-mod yom-free-html-ugc-alerts" id="ugc-alerts"><div class="bd"><div style="margin-top:-13px;">
+
+<div style="float:left;background-color:#FFFFFF;height:25px;width:40px;font:normal 13px arial;padding:10px 10px 0 10px;color:#C23333;"><span style="text-transform:uppercase;">[公告]</span></div>
+
+<div style="float:left;background-color:#FFFFFF;height:25px;width:550px;font:normal 13px arial;padding:10px 10px 0 10px;color:black;">如您是安裝IE6、7或其他較舊版本瀏覽器，恐無法使用留言及心情投票。請馬上升級至<a href="https://downloads.yahoo.com/tw/internetexplorer">IE</a>或<a href="http://downloads.yahoo.com/tw/firefox">Firefox</a>最新版本，更順暢地使用完整的服務功能。</div>
+
+<div style="clear:both;"></div>
+
+</div></div></div>
+<div class="yom-mod yom-ysmcm" id="mw-ysm-cm-container"><div class="bd"><div class="loading">正在載入．．．</div><div class="container hide"> </div></div></div>
+<div class="yom-mod yom-free-html" id="Comment-Alerts"><div class="bd"><div style="margin-top:-13px;">
+
+<div style="float:left;background-color:#FFFFFF;height:25px;width:100px;font:normal 13px arial;padding:10px 5px 0 10px;color:#C23333;"><span style="text-transform:uppercase;">【留言區公告】</span></div>
+
+<div style="float:left;background-color:#FFFFFF;height:40px;width:500px;font:normal 13px arial;padding:10px 10px 0 5px;color:#000000;">敬告網友，在留言區發表的言論如被多位網友「檢舉不當使用」，該則留言將會被自動隱藏，也不會顯示在「我的留言」中。請大家一起維持乾淨清新的網路環境。謝謝！</div>
+
+<div style="clear:both;"></div>
+
+</div></div></div>
+<div class="yom-remote"><div class="yom-loading" id="mediacommentsugc_container"><!-- --></div></div>
+
+
+
+    </div>
+    <div class="yog-col yog-8u yog-col-last yom-secondary">
+        <!-- -->
+<div class="yom-mod yom-searchform" id="mediasearchform"><div class="bd"><form id="mediasearchform-form" action="https://tw.news.search.yahoo.com/search" method="get"><fieldset><legend><span class="a11y">搜尋</span></legend><input type="hidden" value="UTF-8" name="ei"><input type="hidden" value="globalnews_sb" name="fr"><ul><li><label for="mediasearchform-p" class="a11y">關鍵字</label><input type="text" id="mediasearchform-p" name="p" class="yom-field yom-field-search" placeholder="新聞搜尋" title="新聞搜尋" /></li><li><button type="submit" id="mediasearchform-submit" class="yom-button">新聞搜尋</button></li></ul></fieldset></form></div></div>
+<div class="yom-mod yom-blist" id="mediablistmixednewsforyoucatemp"><div class="hd"><h3>你可能還會想看</h3></div><div class="bd"><ul class="tpl-title yom-list list-style-disc"><li class="list-story first"><div class="txt"><a href="/戲說綠葉-天冷猝死家中-221105413.html" class="title " mapleUltParams="pkg=5b8609ba-fbe4-3a58-8989-21e22b396d3c;ver=ee3ea031-87cb-11e4-abff-0632385b3c1f;ccode=vshareag2uprest;lt=i;pos=1">戲說綠葉 天冷猝死家中</a></div></li><li class="list-story"><div class="txt"><a href="/看見台灣-東京首映-玉山拍手歌惹哭觀眾-211200361.html" class="title " mapleUltParams="pkg=c576284c-8b6a-3925-9b12-06c493df4a08;ver=15f14e31-87df-11e4-a50e-54ca0112c437;ccode=vshareag2uprest;lt=i;pos=2">「看見台灣」東京首映 玉山拍手歌惹哭觀眾</a></div></li><li class="list-story"><div class="txt"><a href="/尬的-女星婚前搞3p-床照外洩-021120810.html" class="title " mapleUltParams="pkg=e90ea9e3-5863-318a-8be2-548f48a0c7c7;ver=ade7de80-87fc-11e4-8f63-2178ef46432c;ccode=vshareag2uprest;lt=i;pos=3">尬的！女星婚前搞3P　床照外洩</a></div></li><li class="list-story"><div class="txt"><a href="/強烈冷氣團來襲-21日晚上起最冷-102533052.html" class="title " mapleUltParams="pkg=a707d74b-3a0f-3381-92e2-33cbcb2ea076;ver=619a3010-8855-11e4-9dfb-375704c37ee9;ccode=vshareag2uprest;lt=i;pos=4">強烈冷氣團來襲  21日晚上起最冷</a></div></li><li class="list-story"><div class="txt"><a href="/殘胞當志工-回收塑膠袋-215033484.html" class="title " mapleUltParams="pkg=74d571b2-324f-34e3-b09d-2989b8a3fab0;ver=5fb5efe1-87ca-11e4-8efd-5a9bf529d21c;ccode=vshareag2uprest;lt=i;pos=5">殘胞當志工 回收塑膠袋</a></div></li><li class="list-story"><div class="txt"><a href="/2014神梗回顧超展開-雞排妹吃飯打砲超激-221106160.html" class="title " mapleUltParams="pkg=c76b8c34-ec3f-345e-8040-c9fcf2508cdb;ver=d7b7d4f0-8814-11e4-bffe-869252de3657;ccode=vshareag2uprest;lt=i;pos=6">2014神梗回顧超展開 雞排妹吃飯打砲超激</a></div></li><li class="list-story"><div class="txt"><a href="/周海媚倒瀉西瓜奶-爆乳超吸睛-024526648.html" class="title " mapleUltParams="pkg=332e3a8b-1dd5-391f-8a32-68f0e2fea23d;ver=8a427200-8802-11e4-a71a-0825f65ccfbc;ccode=vshareag2uprest;lt=i;pos=7">周海媚倒瀉西瓜奶　爆乳超吸睛！</a></div></li><li class="list-story last"><div class="txt"><a href="/陶子杜絕偷吃-別讓男人吃不飽-215036652.html" class="title " mapleUltParams="pkg=cfd40324-f7ae-3b0d-ad32-a7c0f7374c8e;ver=2700c7a0-8730-11e4-b3ff-e9e3bb86bc53;ccode=vshareag2uprest;lt=i;pos=8">陶子杜絕偷吃：別讓男人吃不飽</a></div></li><li class="list-story classickick Dn" data-ad="text" data-ad-remove='{"class":"Dn"}'>
+    <div class="txt">
+        <a href="#" class="title" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}'></a>
+        <cite class="Whs-nw ads-sponsored-text">
+            <span class="provider"><a rel="nofollow" href="#" data-ad-replace='{"_markup":"source","href":"landingUrl"}' class="ad-source"></a></span>
+            <a rel="nofollow" href="https://help.yahoo.com/kb/SLN22774.html?impressions=true" target="_blank" class="ad-sponsored">
+                <span class="C-darkGrey Fz-xs">Sponsored </span>
+            </a>
+            <a rel="nofollow" data-ad-remove='{"class":"Dn"}' class="Dn" href="https://info.yahoo.com/privacy/tw/yahoo/relevantads.html" target="_blank">
+                <i class="Icon C-darkGrey ">&#xe080;</i>
+            </a>
+        </cite>
+    </div>
+</li></ul></div></div>
+
+
+
+
+<div class="yom-mod textimg-s" id="mediamostsentimenttemp"><div class="hd"><h3><a href="/sentiment/" class="more"><em>心情排行</em> »</a></h3></div><div class="bd"><div class="yom-wrap"><ul class="yom-list"><li class="first"><a href="/念到假大學-陸數百學生大四才知-063801218.html" alt="念到假大學  陸數百學生大四才知" title="（中央社台北17日電）數百名就讀於北京黃埔大學的大三、大四學生日前提前領到畢業證書，狐疑的學生查詢後發現，這所「黃埔大學」是民辦非學歷教育機構 ..." mapleUltParams="pkg=7bc13d13-0e83-3457-9996-733ca440980b;ver=04861ea1-85b9-11e4-b7be-9993b9a8c412;pos=1;lt=i;sec=mediamostsentiment-informative">念到假大學  陸數百學生大四才知</a></li><li><a href="/老翁-中彈騎車1公里到家才知-215036667.html" alt="老翁 中彈騎車1公里到家才知" title="中國時報【黃力勉╱台東報導】「怎麼可能是被槍打到？」海端鄉的77歲范姓老翁18日中午騎機車回家時意外遭槍擊，子彈貫穿肩頸部，老翁跌倒後卻不以為意 ..." mapleUltParams="pkg=56c21a0e-2a29-31b1-bdcb-6cf1cdd241ef;ver=928800e0-8769-11e4-9bee-b75bd1e082d7;pos=2;lt=i;sec=mediamostsentiment-informative">老翁 中彈騎車1公里到家才知</a></li><li><a href="/嬰兒生嬰兒-7月大男嬰-懷孕-剖腹產下寄生妹妹-115000276.html" alt="嬰兒生嬰兒？7月大男嬰「懷孕」　剖腹產下寄生妹妹" title="大陸中心／綜合報導大陸安徽傳出「嬰兒生嬰兒」的詭異事件。一名住在松農村的女子所產下的男嬰，7個月後肚子卻漸漸「脹大」如同懷孕一樣，經醫院檢查後 ..." mapleUltParams="pkg=0f425980-4934-3298-9a65-daf50f6ad75c;ver=52eecad7-84d1-11e4-befe-f744d8ac5285;pos=3;lt=i;sec=mediamostsentiment-informative">嬰兒生嬰兒？7月大男嬰「懷孕」　剖腹產下寄生妹妹</a></li><li><a href="/54歲婦人發現聖誕老人不存在-罹患憂鬱症崩潰-084319740.html" alt="54歲婦人發現聖誕老人不存在　罹患憂鬱症崩潰" title="聖誕節即將到來，小朋友最期待的就是收到聖誕老公公的禮物，在美國有名婦人，小時後得知聖誕老人不存在，傷心過度罹患季節性憂鬱症。" mapleUltParams="pkg=2caaf756-e810-399e-89ef-266f1faed7f7;ver=987ac907-8837-11e4-abde-cb92cc3195d6;pos=4;lt=i;sec=mediamostsentiment-informative">54歲婦人發現聖誕老人不存在　罹患憂鬱症崩潰</a></li><li><a href="/老翁遭槍擊案-男子誤觸獵槍惹禍-221130822.html" alt="老翁遭槍擊案 男子誤觸獵槍惹禍" title="〔自由時報記者陳賢義／台東報導〕台東縣海端鄉范姓老農前天騎機車返家途中，意外遭「槍擊」貫頸，警方昨傳喚一名涉有重嫌的余姓男子，他坦承酒後誤觸自製獵槍的扳機惹禍 ..." mapleUltParams="pkg=f303bdaf-8e38-3ea7-ab37-89e501707d1e;ver=c79a61e9-87ed-11e4-b9ff-6f87c20282b4;pos=5;lt=i;sec=mediamostsentiment-informative">老翁遭槍擊案 男子誤觸獵槍惹禍</a></li><li><a href="/gg了-被媽罵大哭-男童-阿姨會幫我洗澡-也會幫爸洗-071025216.html" alt="GG了…被媽罵大哭　男童：阿姨會幫我洗澡，也會幫爸洗" title="阿姨她會幫我洗澡…也會幫爸爸洗澡…這真的是GG了！" mapleUltParams="pkg=7083d13d-70bf-3dd4-987b-21eaeccdd468;ver=f0c301b7-85c9-11e4-84f7-1fa9433a063f;pos=6;lt=i;sec=mediamostsentiment-informative">GG了…被媽罵大哭　男童：阿姨會幫我洗澡，也會幫爸洗</a></li><li><a href="/美法醫辦公室狂挖300座墳找-人-結果竟是燒錯了-035800226.html" alt="美法醫辦公室狂挖300座墳找「人」結果竟是燒錯了！" title="國際中心／綜合報導美國紐約法醫辦公室日前鬧出一件大烏龍，工作人員將一位71歲的死者誤認成另一位95歲的死者，將遺體火化之後送交家屬下葬；不久之後 ..." mapleUltParams="pkg=99247e1e-843d-35f1-b1fe-4191f9e5bc81;ver=06f7c7b0-8505-11e4-aefd-f8e89dec28b7;pos=7;lt=i;sec=mediamostsentiment-informative">美法醫辦公室狂挖300座墳找「人」結果竟是燒錯了！</a></li><li class="last"><a href="/不滿丈夫土地被種菜-婦拔甜椒挨罰五千-191100525.html" alt="不滿丈夫土地被種菜 婦拔甜椒挨罰五千" title="阮婦不滿巫男在她丈夫的土地上種植蔬菜，強行拔除1株甜椒，經巫男提告，她辯稱甜椒為土地所有權人所有，而非種植地上物的人所有，但法官認定巫男已取得對農作物的管領支配權 ..." mapleUltParams="pkg=d140286a-f487-321d-9c4f-91800523c31a;ver=6bcbad71-87dd-11e4-bb3f-f93283ad7824;pos=8;lt=i;sec=mediamostsentiment-informative">不滿丈夫土地被種菜 婦拔甜椒挨罰五千</a></li></ul><span class="arrow"> </span></div><ul class="yom-sentiment-menu clearfix" id=senti-list-item><li class="informative first"><a href="/sentiment/informative/" class="rapid-nf" style="width:34px" alt="實用" title="實用" mapleUltParams="sec=mediamostsentimenttemp;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=informative;slk=informative"><span> </span><div>實用</div></a></li><li class="warm"><a href="/sentiment/warm/" class="rapid-nf" style="width:34px" alt="感人" title="感人" mapleUltParams="sec=mediamostsentimenttemp;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=warm;slk=warm"><span> </span><div>感人</div></a></li><li class="happy"><a href="/sentiment/happy/" class="rapid-nf" style="width:34px" alt="開心" title="開心" mapleUltParams="sec=mediamostsentimenttemp;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=happy;slk=happy"><span> </span><div>開心</div></a></li><li class="odd on"><a href="/sentiment/odd/" class="rapid-nf" style="width:34px" alt="超扯" title="超扯" mapleUltParams="sec=mediamostsentimenttemp;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=odd;slk=odd"><span> </span><div>超扯</div></a></li><li class="boring"><a href="/sentiment/boring/" class="rapid-nf" style="width:34px" alt="無聊" title="無聊" mapleUltParams="sec=mediamostsentimenttemp;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=boring;slk=boring"><span> </span><div>無聊</div></a></li><li class="worried"><a href="/sentiment/worried/" class="rapid-nf" style="width:34px" alt="害怕" title="害怕" mapleUltParams="sec=mediamostsentimenttemp;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=worried;slk=worried"><span> </span><div>害怕</div></a></li><li class="depressing"><a href="/sentiment/depressing/" class="rapid-nf" style="width:34px" alt="難過" title="難過" mapleUltParams="sec=mediamostsentimenttemp;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=depressing;slk=depressing"><span> </span><div>難過</div></a></li><li class="angry last"><a href="/sentiment/angry/" class="rapid-nf" style="width:34px" alt="火大" title="火大" mapleUltParams="sec=mediamostsentimenttemp;ccode=sentimentvote;lt=#ca;itc=1;pkg=e02497d9-8905-3d79-83e0-d4eadf760b33;act=angry;slk=angry"><span> </span><div>火大</div></a></li></ul><div class="sentiment-disable icon-ajax-loader-white"> </div></div></div>
+
+
+
+
+
+<div class="yom-mod" id="frrm1" style="display:none;"></div>
+
+    </div>
+</div>
+           
+<!-- END 16_8 -->
+
+<!-- START 24 -->
+<div class="yog-wrap yog-full">
+    <div class="yog-col yog-grid yog-24u">
+        <!-- --><div class="yom-mod yom-bcarousel ymg-carousel rapid-nf" id="mediabcarouselmixedlpca_2"><div class="hd"><div class="yui-carousel-nav"><div class="heading"><h3>搶鮮推薦</h3></div><![if gte IE 7]><div class="hidden controls ymg-carousel-nav-wrap"><div class="pagination yui-carousel-pagination">1 - 4 / 12</div><div class="ymg-nav-buttons"><a href="#previous" class="prev-page yui-carousel-button yui-carousel-prev yom-button yui-carousel-first-button-disabled rapid-nf"><span><strong>上一頁</strong></span></a><a href="#next" class="next-page yui-carousel-button yui-carousel-next yom-button rapid-nf"><span><strong>下一頁</strong></span></a></div></div><![endif]></div></div><div class="bd"><div class="yui3-bcarousel yui3-scrollview tpl-tile no-cite"><ul class="bcarousel-pages yui3-bcarousel-content cols-4 ratio-16x9 item_bg-white title-2 cite-0"><li class="bcarousel-page"><ul class="bcarousel-items"><li class="bcarousel-item" data-id="7139fca4-b495-3d64-b386-697c35534899"><div class="item-wrap"><a href="http://www.i-gamer.net/yahoo/play/10716.html" class="img-wrap"  mapleUltParams="pkg=7139fca4-b495-3d64-b386-697c35534899;ver=c1c11285-85dd-11e4-b59f-abff07613559;lt=i;pos=1"><!--[if lte IE 7]><div class = "bcarousel-ie6"><![endif]--><img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/zYz9R3UpE9byQifQUsr6RQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTEyOTtweW9mZj0wO3E9NzU7dz0yMzA-/http://l.yimg.com/os/publish-images/news/2014-12-17/b556aaa0-85dd-11e4-8c7f-b541a9620a02_20141217.jpg');" width="230" height="129" alt="霸王龍覺醒~今晚打恐龍" title="" class="lzbg"><!--[if lte IE 7]></div><![endif]--></a><div class="txt"><p class="title"><a href="http://www.i-gamer.net/yahoo/play/10716.html" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=7139fca4-b495-3d64-b386-697c35534899;ver=c1c11285-85dd-11e4-b59f-abff07613559;lt=i;pos=1">霸王龍覺醒~今晚打恐龍</a></p></div></div></li><li class="bcarousel-item" data-id="17e38592-0bd2-3e59-a97b-dcbfae8b4134"><div class="item-wrap"><a href="https://tw.rd.yahoo.com/referurl/travel/newsbelt/*http://tw.house.yahoo.com/news/%E3%80%90%E5%9C%B0%E7%94%A2%E5%B0%88%E6%AC%84%E3%80%91%E5%BC%B5%E6%AC%A3%E6%B0%91-10%E7%A8%AE%E8%B2%B7%E4%BA%86%E7%B5%95%E5%B0%8D%E8%AE%93%E4%BD%A0%E5%BE%8C%E6%82%94%E7%9A%84%E6%88%BF%E5%AD%90-133255262.html#8" class="img-wrap"  mapleUltParams="pkg=17e38592-0bd2-3e59-a97b-dcbfae8b4134;ver=9b3e52b5-876f-11e4-be8f-02fa5b4de5be;lt=i;pos=2"><!--[if lte IE 7]><div class = "bcarousel-ie6"><![endif]--><img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/ONyPBn4M3Yx8hWoE2EPXhQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTEyOTtweW9mZj0wO3E9NzU7dz0yMzA-/http://l.yimg.com/os/publish-images/news/2014-12-19/9157af80-876f-11e4-9606-0d61828df36b_download.png.cf.jpg');" width="230" height="129" alt="專家說：這10種房子買了必後悔" title="" class="lzbg"><!--[if lte IE 7]></div><![endif]--></a><div class="txt"><p class="title"><a href="https://tw.rd.yahoo.com/referurl/travel/newsbelt/*http://tw.house.yahoo.com/news/%E3%80%90%E5%9C%B0%E7%94%A2%E5%B0%88%E6%AC%84%E3%80%91%E5%BC%B5%E6%AC%A3%E6%B0%91-10%E7%A8%AE%E8%B2%B7%E4%BA%86%E7%B5%95%E5%B0%8D%E8%AE%93%E4%BD%A0%E5%BE%8C%E6%82%94%E7%9A%84%E6%88%BF%E5%AD%90-133255262.html#8" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=17e38592-0bd2-3e59-a97b-dcbfae8b4134;ver=9b3e52b5-876f-11e4-be8f-02fa5b4de5be;lt=i;pos=2">專家說：這10種房子買了必後悔</a></p></div></div></li><li class="bcarousel-item" data-id="343b01e3-ceb5-3ab7-b884-5bd4eba47346"><div class="item-wrap"><a href="https://tw.rd.yahoo.com/referurl/travel/newsbelt/*http://tw.travel.yahoo.com" class="img-wrap"  mapleUltParams="pkg=343b01e3-ceb5-3ab7-b884-5bd4eba47346;ver=06cb64b3-876f-11e4-bff8-827acf1263b3;lt=i;pos=3"><!--[if lte IE 7]><div class = "bcarousel-ie6"><![endif]--><img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/wmdCb1q88yro3YhPSldBDQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTEyOTtweW9mZj0wO3E9NzU7dz0yMzA-/http://l.yimg.com/os/publish-images/news/2014-12-19/e54eda60-876e-11e4-b917-799d0013c52d_141219_3.jpg');" width="230" height="129" alt="冬季限定！寒流來推這攤傳統杏仁茶" title="" class="lzbg"><!--[if lte IE 7]></div><![endif]--></a><div class="txt"><p class="title"><a href="https://tw.rd.yahoo.com/referurl/travel/newsbelt/*http://tw.travel.yahoo.com" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=343b01e3-ceb5-3ab7-b884-5bd4eba47346;ver=06cb64b3-876f-11e4-bff8-827acf1263b3;lt=i;pos=3">冬季限定！寒流來推這攤傳統杏仁茶</a></p></div></div></li><li class="bcarousel-item" data-id="8de1cefd-e2aa-35e6-8e7c-7e6cd6e54729"><div class="item-wrap"><a href="https://tw.rd.yahoo.com/referurl/movieinsider/newsbelt/*http://tw.campaign.yahoo.com/video/yahoo%E9%9B%BB%E5%BD%B1%E5%A8%9B%E6%A8%82%E7%88%86-%E5%93%88%E6%AF%94%E4%BA%BA-%E6%9C%80%E7%B5%82%E7%AB%A0%E5%85%A8%E5%93%A1%E5%9B%9E%E6%AD%B8-%E6%83%A1%E9%BE%8D%E5%8F%B2%E7%9F%9B%E6%A0%BC%E7%8F%BE%E8%BA%AB%E8%84%AB%E5%8F%A3%E7%A7%80%E6%90%9E%E7%AC%91%E5%AE%A3%E5%82%B3-064638915.html?vp=1" class="img-wrap"  mapleUltParams="pkg=8de1cefd-e2aa-35e6-8e7c-7e6cd6e54729;ver=fbbdc325-876d-11e4-befe-f39f53a57ee2;lt=i;pos=4"><!--[if lte IE 7]><div class = "bcarousel-ie6"><![endif]--><img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/OEFOhz_pWEXEgI7JfUdOyQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTEyOTtweW9mZj0wO3E9NzU7dz0yMzA-/http://l.yimg.com/os/publish-images/news/2014-12-19/f2a3e5d0-876d-11e4-aa56-7335c5fcf108_-1219-mix-3-mp4_000148787.jpg');" width="230" height="129" alt="驚！本集將會有個主角犧牲領便當？" title="" class="lzbg"><!--[if lte IE 7]></div><![endif]--></a><div class="txt"><p class="title"><a href="https://tw.rd.yahoo.com/referurl/movieinsider/newsbelt/*http://tw.campaign.yahoo.com/video/yahoo%E9%9B%BB%E5%BD%B1%E5%A8%9B%E6%A8%82%E7%88%86-%E5%93%88%E6%AF%94%E4%BA%BA-%E6%9C%80%E7%B5%82%E7%AB%A0%E5%85%A8%E5%93%A1%E5%9B%9E%E6%AD%B8-%E6%83%A1%E9%BE%8D%E5%8F%B2%E7%9F%9B%E6%A0%BC%E7%8F%BE%E8%BA%AB%E8%84%AB%E5%8F%A3%E7%A7%80%E6%90%9E%E7%AC%91%E5%AE%A3%E5%82%B3-064638915.html?vp=1" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=8de1cefd-e2aa-35e6-8e7c-7e6cd6e54729;ver=fbbdc325-876d-11e4-befe-f39f53a57ee2;lt=i;pos=4">驚！本集將會有個主角犧牲領便當？</a></p></div></div></li></ul></li></ul></div></div></div>
+
+    </div>
+</div>    
+
+
+<!-- END 24 -->
+
+
+<!-- END full -->
+            </div>
+            
+<script type="text/javascript">if(typeof rt_pushMoment!=='undefined')rt_pushMoment("t3");</script>
+            <footer><div id="yog-ft" class="yog-ft footer">
+                <div id="footer">
+                    
+                    
+                    <div class="yom-mod yom-footer-links" id="footer-links">
+                        <div class="bd">
+                            <div class="yog-grid yog-24u">
+                                <div class="yog-wrap">
+                                    <div class="yog-col yog-7u">
+                                        <div class="yom-mod yom-nav-footer" id="nav-footer"><div class="hd"><h2>Yahoo奇摩新聞</h2></div><div class="bd"><div class="content"><div class="wrap"><ul class="yom-list col first" style="width:50%"><li class="first"><a href="/" title=""><span>首頁</span></a></li><li><a href="/politics/" title=""><span>政治</span></a></li><li><a href="/finance/" title=""><span>財經</span></a></li><li><a href="/entertainment/" title=""><span>影劇</span></a></li><li><a href="/sports/" title=""><span>運動</span></a></li><li><a href="/society/" title=""><span>社會</span></a></li><li><a href="/local/" title=""><span>地方</span></a></li><li><a href="/world/" title=""><span>國際</span></a></li><li class="last"><a href="/lifestyle/" title=""><span>生活</span></a></li></ul><ul start="10" class="yom-list col last" style="width:50%"><li class="first"><a href="/art-edu/" title=""><span>文教</span></a></li><li><a href="/health/" title=""><span>健康</span></a></li><li><a href="/technology/" title=""><span>科技</span></a></li><li><a href="/travel/" title=""><span>旅遊</span></a></li><li><a href="/weather-forecast/" title=""><span>氣象</span></a></li><li><a href="/odd/" title=""><span>新奇</span></a></li><li><a href="/video/" title=""><span>影音</span></a></li><li class="last"><a href="/blogs/" title=""><span>專欄</span></a></li></ul></div></div></div><div class="ft"><a href="/sitemap/" class="more">網站地圖</a></div></div>
+                                    </div> 
+                                    <div class="yog-col yog-17u">
+                                        <div class="yog-wrap">
+                                            <div class="yog-col yog-9u first">
+                                                <div class="yom-mod yom-linkbox yom-also-on-yahoo" id="also-on-yahoo"><div class="hd"><h2>Yahoo奇摩其他服務</h2></div><div class="bd"><div class="content"><div class="wrap"><ul class="yom-list col first" style="width:33.333333333333%"><li class="first"><a href="https://tw.sports.yahoo.com/"><span>運動</span></a></li><li><a href="https://tw.stock.yahoo.com/"><span>股市</span></a></li><li><a href="https://tw.knowledge.yahoo.com/"><span>知識+</span></a></li><li><a href="https://tw.autos.yahoo.com/"><span>汽車</span></a></li><li><a href="https://tw.travel.yahoo.com/"><span>旅遊</span></a></li><li class="last"><a href="https://buy.yahoo.com.tw/"><span>購物中心</span></a></li></ul><ul start="7" class="yom-list col" style="width:33.333333333333%"><li class="first"><a href="http://tw.discount.yahoo.net/"><span>折扣+</span></a></li><li><a href="https://tw.movie.yahoo.com/"><span>電影</span></a></li><li><a href="https://tw.music.yahoo.com/"><span>音樂</span></a></li><li><a href="https://tw.games.yahoo.com/"><span>遊戲</span></a></li><li><a href="https://tw.fashion.yahoo.com/"><span>時尚美妝</span></a></li><li class="last"><a href="https://tw.omg.yahoo.com/"><span>名人娛樂</span></a></li></ul><ul start="13" class="yom-list col last" style="width:33.333333333333%"><li class="first"><a href="https://tw.money.yahoo.com/"><span>理財</span></a></li><li><a href="https://tw.house.yahoo.com/"><span>房地產</span></a></li><li><a href="https://tw.charity.yahoo.com/"><span>公益</span></a></li><li><a href="https://tw.weather.yahoo.com/"><span>氣象</span></a></li><li><a href="https://tw.dictionary.yahoo.com/"><span>字典</span></a></li><li class="last"><a href="https://www.facebook.com/Yahoo.Kimo"><span>Yahoo奇摩粉絲團</span></a></li></ul></div></div></div><div class="ft"><a href="https://tw.info.yahoo.com/service/" class="more">服務總覽 »</a></div></div>
+                                            </div>
+                                            <div class="yog-col yog-8u last">
+                                                <div class="yom-mod yom-linkbox yom-trending" id="trending"><div class="hd"><h2>10大熱搜關鍵字</h2></div><div class="bd"><div class="content"><div class="wrap"><ol class="yom-list col first" style="width:50%"><li class="first"><a href="https://tw.search.yahoo.com/search?cs=bz&p=%E9%98%BF%E5%A6%B9%E5%90%88%E9%AB%94%E9%98%BF%E5%AF%86%E7%89%B9&fr=news-tw-tts" rel="nofollow"><span>阿妹合體阿密特</span></a></li><li><a href="https://tw.search.yahoo.com/search?cs=bz&p=%E6%88%90%E9%BE%8D%E6%94%9D%E5%BD%B1%E5%B8%AB%E6%BA%BA%E6%96%83&fr=news-tw-tts" rel="nofollow"><span>成龍攝影師溺斃</span></a></li><li><a href="https://tw.search.yahoo.com/search?cs=bz&p=%E4%BD%95%E5%98%89%E6%96%87%E7%94%A917%E5%85%AC%E6%96%A4&fr=news-tw-tts" rel="nofollow"><span>何嘉文甩17公斤</span></a></li><li><a href="https://tw.search.yahoo.com/search?cs=bz&p=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%A4%9A%E5%85%83%E6%88%90%E5%AE%B6&fr=news-tw-tts" rel="nofollow"><span>蔡依林多元成家</span></a></li><li class="last"><a href="https://tw.search.yahoo.com/search?cs=bz&p=%E6%96%B0%E5%8C%97%E5%B8%82%E8%80%B6%E8%AA%95%E5%9F%8E&fr=news-tw-tts" rel="nofollow"><span>新北市耶誕城</span></a></li></ol><ol start="6" class="yom-list col last" style="width:50%"><li class="first"><a href="https://tw.search.yahoo.com/search?cs=bz&p=%E5%85%92%E7%AB%A5%E6%96%B0%E6%A8%82%E5%9C%92&fr=news-tw-tts" rel="nofollow"><span>兒童新樂園</span></a></li><li><a href="https://tw.search.yahoo.com/search?cs=bz&p=%E8%AC%9D%E5%92%8C%E5%BC%A6%E6%8E%89%E4%B8%8B%E8%88%9E%E5%8F%B0&fr=news-tw-tts" rel="nofollow"><span>謝和弦掉下舞台</span></a></li><li><a href="https://tw.search.yahoo.com/search?cs=bz&p=%E5%8A%89%E5%96%AC%E5%AE%89%E5%8D%83%E5%AD%97%E8%87%AA%E7%99%BD&fr=news-tw-tts" rel="nofollow"><span>劉喬安千字自白</span></a></li><li><a href="https://tw.search.yahoo.com/search?cs=bz&p=%E8%81%96%E8%AA%95%E8%80%81%E4%BA%BA%E6%90%B6%E9%8A%80%E8%A1%8C&fr=news-tw-tts" rel="nofollow"><span>聖誕老人搶銀行</span></a></li><li class="last"><a href="https://tw.search.yahoo.com/search?cs=bz&norw=1&p=%E6%BE%B3%E6%B4%B2%E6%B0%91%E5%AE%85%E8%A1%80%E6%A1%88&fr=news-tw-tts" rel="nofollow"><span>澳洲民宅血案</span></a></li></ol></div></div></div></div>
+                                            </div>
+                                        </div>    
+                                    </div>       
+                                </div>    
+                            </div>    
+                        </div>
+                    </div>
+                    <div id="mediafooterinfo" class="yom-mod yom-footer-info" role="contentinfo">
+    <div class="bd">
+        <div class="disclaimer">
+            <cite></cite>
+        </div>
+        <div class="copyright">
+            <span>Yahoo News Network </span>
+            <ul>
+                <li class="first"><a href="https://tw.help.yahoo.com/kb/helpcentral">服務中心</a> / <a href="https://yahoo.uservoice.com/forums/168877-tw-news">建議</a></li>
+                <li><a href="https://info.yahoo.com/privacy/tw/yahoo/news/">隱私權</a></li>
+                <li><a href="https://tw.emarketing.yahoo.com/ysm/index.php">關鍵字廣告</a></li>
+                <li class="last"><a href="https://info.yahoo.com/legal/tw/yahoo/utos/zh-hant-tw/">服務條款</a></li>
+            </ul>
+        </div>
+        
+    </div>
+</div>
+
+
+                </div>
+            </div></footer>
+        </div>
+        
+        <!-- SpaceID=0 robot -->
+
+        <!-- SpaceID=0 robot -->
+
+        
+        <!-- SpaceID=0 robot -->
+
+        
+        
+        
+<script type="text/javascript">if(typeof rt_pushMoment!=='undefined')rt_pushMoment("t4");</script>
+        
+        
+        
+        <script language="javascript">
+        
+YUI.YUICfg = {"gallery":"yui:gallery-2011.04.20-13-04","groups":{"group0d9d821fd95f957944c70b69b28ef8dd5":{"base":"https:\/\/s.yimg.com\/","comboBase":"https:\/\/s.yimg.com\/zz\/combo?","modules":{"media-lightbox-default":{"path":"os\/mit\/media\/m\/photos\/lightbox-default-min-2b497cc.js"},"ylt-strip":{"path":"ss\/strip_3.4.js"},"media-article-embed-video":{"path":"os\/mit\/media\/m\/article\/article-embed-video-min-41caf31.js"},"media-sharing-strings_zh-Hant-TW":{"path":"os\/mit\/media\/m\/sharing\/l10n\/strings_zh-hant-tw-min-bb31164.js"},"media-social-buttons-v4":{"path":"os\/mit\/media\/m\/sharing\/social-buttons-v4-min-bb31164.js"},"twttr_all":{"path":"os\/mit\/media\/m\/sharing\/twttr-widgets-min-bb31164.js"},"media-email-autocomplete":{"path":"os\/mit\/media\/m\/sharing\/email-autocomplete-min-bb31164.js"},"media-social-tooltip":{"path":"os\/mit\/media\/m\/sharing\/social-tooltip-min-bb31164.js"},"media-module_tbsad":{"path":"os\/mit\/media\/m\/ads\/module_tbsad-min-c91f0df.js"},"media-bcarousel-scrollview-base":{"path":"os\/mit\/media\/m\/carousel\/bcarousel-scrollview-base-min-29ddc48.js"},"media-bcarousel-scrollview-paginator":{"path":"os\/mit\/media\/m\/carousel\/bcarousel-scrollview-paginator-min-29ddc48.js"},"media-bcarousel":{"path":"os\/mit\/media\/m\/carousel\/bcarousel-min-29ddc48.js"},"media-userdata":{"path":"os\/mit\/media\/m\/userdata\/userdata-min-fab5b71.js"},"media-searchform":{"path":"os\/mit\/media\/m\/search\/searchform-min-0bc3807.js"},"media-module_m13":{"path":"os\/mit\/media\/m\/ads\/module_m13-min-c91f0df.js"},"media-uh":{"path":"kx\/yucs\/uh3s\/uh\/224\/js\/uh-min.js"},"media-persistence":{"path":"kx\/yucs\/uh3s\/uh\/57\/js\/persistence-min.js"},"media-menu_group_plugin":{"path":"kx\/yucs\/uh3s\/uh\/221\/js\/menu_group_plugin-min.js"},"media-menu-plugin":{"path":"kx\/yucs\/uh3s\/uh\/244\/js\/menu-plugin-min.js"},"media-menu_handler_v2":{"path":"kx\/yucs\/uh3s\/uh\/289\/js\/menu_handler_v2-min.js"},"media-gallery-jsonp":{"path":"kx\/yucs\/uh3s\/uh\/8\/js\/gallery-jsonp-min.js"},"media-logo_debug":{"path":"kx\/yucs\/uh3s\/uh\/251\/js\/logo_debug-min.js"},"media-localeDateFormat":{"path":"kx\/yucs\/uh3\/uh\/js\/958\/localeDateFormat-min.js"},"media-timestamp_library":{"path":"kx\/yucs\/uh3s\/uh\/74\/js\/timestamp_library-min.js"},"media-usermenu_v2":{"path":"kx\/yucs\/uh3s\/uh\/241\/js\/usermenu_v2-min.js"},"media-signout":{"path":"kx\/yucs\/uh3\/signout-link\/10\/js\/signout-min.js"},"media-uh_rapid":{"path":"kx\/yucs\/uhc\/rapid\/41\/js\/uh_rapid-min.js"},"media-meta":{"path":"kx\/yucs\/uhc\/meta\/55\/js\/meta-min.js"},"media-disclaimer_seed":{"path":"kx\/yucs\/uh3\/disclaimer\/331\/js\/disclaimer_seed-min.js"},"media-top_bar_v2":{"path":"kx\/yucs\/uh3s\/top_bar\/11\/js\/top_bar_v2-min.js"},"media-home_menu":{"path":"kx\/yucs\/uh3s\/top-bar\/27\/js\/home_menu-min.js"},"media-search":{"path":"kx\/yucs\/uh3s\/search\/204\/js\/search-min.js"},"media-help_menu_v4":{"path":"kx\/yucs\/uh3s\/help\/30\/js\/help_menu_v4-min.js"},"media-ysmcm":{"path":"os\/mit\/media\/m\/ads\/ysmcm-min-1b233cb.js"},"media-ylc":{"path":"os\/mit\/media\/p\/common\/ylc-min-56d3a2e.js"},"media-iesitemode":{"path":"os\/mit\/media\/p\/common\/iesitemode-min-56d3a2e.js"},"media-trfsm":{"path":"os\/mit\/media\/p\/common\/trfsm-min-56d3a2e.js"},"media-ywa":{"path":"os\/mit\/media\/p\/common\/ywa\/ywa-min-56d3a2e.js"},"media-ywa-tracking":{"path":"os\/mit\/media\/p\/common\/ywa-tracking-min-56d3a2e.js"},"media-i13n":{"path":"os\/mit\/media\/p\/common\/i13n-min-56d3a2e.js"},"media-dwell-time":{"path":"os\/mit\/media\/p\/common\/dwell-time-min-56d3a2e.js"},"media-header-uh3s-desktop":{"path":"os\/mit\/media\/m\/header\/header-uh3s-desktop-min-c2ecde5.js"},"media-article":{"path":"os\/mit\/media\/m\/article\/article-min-41caf31.js"},"media-author-badge":{"path":"os\/mit\/media\/m\/article\/author-badge-min-41caf31.js"},"media-twitter_embed":{"path":"os\/mit\/media\/m\/sharing\/twitter_embed-min-bb31164.js"},"media-video-embed-player":{"path":"os\/mit\/media\/m\/article\/video-embed-player-min-41caf31.js"},"media-sentiment":{"path":"os\/mit\/media\/m\/news\/sentiment-min-aa7a3a8.js"},"media-index":{"path":"os\/mit\/media\/m\/index\/index-min-c7726a5.js"},"media-topstory":{"path":"os\/mit\/media\/m\/index\/topstory-min-8d07914.js"},"media-tooltip":{"path":"os\/mit\/media\/m\/list\/tooltip-min-b87d915.js"},"media-iblist":{"path":"os\/mit\/media\/m\/news\/iblist-min-aa7a3a8.js"},"media-fontresize":{"path":"os\/mit\/media\/m\/article\/fontresize-min-41caf31.js"},"media-blistmixed-newsforyou-rotate":{"path":"os\/mit\/media\/m\/list\/blistmixed-newsforyou-rotate-min-b87d915.js"},"media-float-right-module":{"path":"os\/mit\/media\/m\/astrology\/float-right-module-min-64455c5.js"},"media-footer":{"path":"os\/mit\/media\/m\/footer\/footer-min-1adbfba.js"},"media-tracking":{"path":"os\/mit\/media\/m\/base\/tracking-min-649ba6f.js"}},"combine":true,"filter":"min","root":"\/"}},"modules":{"media-all":{"fullpath":"https:\/\/connect.facebook.net\/zh_TW\/all.js"}},"combine":true,"allowRollup":true,"comboBase":"https:\/\/s.yimg.com\/zz\/combo?","maxURLLength":"2000"}
+YUI.YUICfg.root='yui:'+YUI.version+'/build/';
+YMedia.applyConfig(YUI.YUICfg);
+YUI.Env[YUI.version].base = 'https://s.yimg.com/';
+YUI.Env[YUI.version].comboBase = 'https://s.yimg.com/zz/combo?';
+YUI.Env[YUI.version].root = 'yui:'+YUI.version+'/build/';
+YMedia.use("media-lightbox-default","ylt-strip","media-article-embed-video","media-sharing-strings_zh-Hant-TW","media-social-buttons-v4","twttr_all","media-email-autocomplete","media-social-tooltip","io-form","node-base","widget","event","event-custom","lang","overlay","querystring","intl","media-tracking","plugin","json","jsonp","cookie","get","yql","autocomplete","autocomplete-highlighters","gallery-storage-lite","event-custom-complex","media-module_tbsad","media-bcarousel-scrollview-base","media-bcarousel-scrollview-paginator","media-bcarousel","io-base","async-queue","substitute","media-orientation","media-userdata","media-searchform","node","media-module_m13","media-ysmcm","node","io-base","event-custom",function(Y){
+          
+    Y.later(10, this, function() {if (YMedia) {
+                                    var bucketN = YMedia.lightboxBucketTestName = "";
+                                }
+                                var config = { comment_input_text: "張貼留言", comment_button_text: "留言", photo_alias: "photos", enable_dedup: "1", enable_fullscreen: "1", property_logo_path: "https://s.yimg.com/rz/d/yahoo_news_zh-Hant-TW_s_f_w_bestfit_news.png", enable_redirect_lightbox: "1", enable_lightbox_comment: "1", content_id: "e02497d9-8905-3d79-83e0-d4eadf760b33", darla_version_0_4_0: "0", darla_type: "2", ads_mime: "site-attribute=+_id%3D%22e02497d9-8905-3d79-83e0-d4eadf760b33%22+yct%3D%22Health%22+rs%3D%22lmsid%3Aa0770000007x1n9AAA%3Brevsp%3Alibertytimes.com.tw%22+ctype%3D%22fn_news%22+ctopid%3D%221720500%3B1638500%22++can_suppress_ugc%3D%221%22",darla_js: "https://s.yimg.com/rq/darla/2-8-4/js/g-r-min.js", darla_version:"2-8-4", darla_lib_js: "https://s.yimg.com/lq/combo?darla/fc_0.3.1.js&amp;darla/util_0.2.6.js&amp;darla/renderers/complex_renderer_0.3.0.js", lightbox_darla_js: "https://s.yimg.com/os/mit/media/m/photos/lightbox-darla-min-2b497cc.js", core_lightbox_js: "https://s.yimg.com/os/mit/media/m/photos/boba-min-2b497cc.js", lightbox_js: "https://s.yimg.com/os/mit/media/m/photos/boba_lightbox-desktop-min-2b497cc.js", lightbox_module_js: "https://s.yimg.com/os/mit/media/m/photos/boba_lightbox_module-desktop-min-2b497cc.js", video_js: "https://s.yimg.com/os/mit/media/m/videos/yepcainlineplayer-min-06ae69e.js", video_player_js:"https://yep.video.yahoo.com/js/3/videoplayer-min.js?lang=zh-Hant-TW", ad_css:"https://s.yimg.com/os/mit/media/m/ads/ads-min-81b3fea.css", lang_css: "https://s.yimg.com/os/mit/media/m/ads/lang/zh-min-6a0035e.css", lightbox_css: "https://s.yimg.com/os/mit/media/m/photos/boba_lightbox-desktop-min-2b497cc.css", property: "media", fc_domain: "", intl: "TW", site: "news", region: "TW", lang: "zh-Hant-TW", spaceid: "2144404884", "interAds": "MON", "interAdsViewed": "4", "embed_ads_freq": "5", "embed_ads_position": "LREC","multimediagallery":"1", "device": "full", "enable_video_interAds": "1", "ssl": 1 };
+                                YMedia.Lightbox_init.loadLightbox(config);});
+    Y.later(10, this, function() {YAHOO = window.YAHOO || {};YAHOO.Media = YAHOO.Media || {};YAHOO.Media.SocialButtons = YAHOO.Media.SocialButtons || {};YAHOO.Media.SocialButtons.configs = YAHOO.Media.SocialButtons.configs || {};YAHOO.Media.Facebook = YAHOO.Media.Facebook || { "init": {"appId":"90376669494","channelUrl":"https:\/\/tw.news.yahoo.com\/_xhr\/social\/fbchannel\/"}};});
+    Y.later(10, this, function() {YAHOO.Media.SocialButtons.configs["ymsb-14190881286448-1"] = {"config":{"widget_type":"mit_share","lang":"zh-Hant-TW","region":"TW","site":"news","facebook":{"href":"","layout":"button_count","action":"recommend","show_faces":false,"ref":"facebook_cb","width":54},"dynamic":true,"ywa_project_id":"0","isKbShortcutEnabled":false,"isSherpaCountingEnabled":false,"scrumb":""},"lang":"zh-Hant-TW","region":"TW","site":"news","tracking":{"_S":"2144404884","intl":"TW","ct":"a","pkg":"e02497d9-8905-3d79-83e0-d4eadf760b33","test":"","csrcpvid":"JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII","sec":"mit_share","slk":"","mpos":"1","lang":"zh-Hant-TW"},"content":{"print_url":"javascript:window.print();","title":"\u91ab\u5e2b\u5c11\u53c8\u8001 \u672a\u4f86\u6050\u7121\u4eba\u770b\u75c5 - Yahoo\u5947\u6469\u65b0\u805e","summary":"5\u5927\u5c08\u79d1 8\u5e74\u5f8c\u7f3a7\u5343\u591a\u4eba\u3014\u81ea\u7531\u6642\u5831\u8a18\u8005\u6797\u60e0\u7434\uff0f\u53f0\u5317\u5831\u5c0e\u3015\u570b\u5bb6\u885b\u751f\u7814\u7a76\u9662\uff08\u7c21\u7a31\u570b\u885b\u9662\uff09\u7814\u7a76\u767c\u73fe\uff0c\u4e8c\u25cb\u4e8c\u4e8c\u5e74\uff0c\u570b\u5167\u5167\u79d1\u3001\u5916\u79d1\u3001\u5a66\u7522\u79d1\u3001\u5152\u79d1\u3001\u6025\u8a3a\u79d1\u4e94\u5927\u5c08\u79d1\u91ab\u5e2b\u7684\u4eba\u529b\u7f3a\u53e3\u5c07\u9054\u4e03\u5343\u591a\u540d ...","thumbnail":"https:\/\/s1.yimg.com\/bt\/api\/res\/1.2\/JptwpUoj8z_4Sr7rmQa2Qg--\/YXBwaWQ9eW5ld3M7aWw9cGxhbmU7cT03NTt3PTYwMA--\/http:\/\/media.zenfs.com\/zh_hant_tw\/News\/Chinatimes\/C03812002614.jpg","id":"e02497d9-8905-3d79-83e0-d4eadf760b33","type":"story","shareCountsFromSherpa":"{}","count_enable":"{\"twitter\": 1,\"mail\": 1}","urlCrumb":false}};});
+    Y.later(10, this, function() {if (window.LH !== undefined) {
+                                if ( !window.LH.isInitialized) {
+                                    if (window.location.href.indexOf('showaft=') != -1 || Math.floor(Math.random()*100)<=3 || 0) {
+                                        window.LH.init(
+                                        {
+                                            spaceid:'2144404884', 
+                                            serverip:'', 
+                                            pvid:'', 
+                                            crumb:''
+                                        });
+                                    }
+                                }
+                                
+                                if (window.LH.isInitialized && window.YAFT !== undefined) {
+                                    var ___aftMaxWaitTime___ = 4500,
+                                        ___lhOnContentType___ = 0,
+                                        ___lhContentType___ = 'story',
+                                        ___lhNPageExcludes___ = '0',
+                                        ___yaftConfig___,
+                                        ___lhReccord = function (ma, va) {
+                                            window.LH.record(ma, { name: ma, type: 'mark', startTime: Math.round(va), duration: 0 });
+                                        };
+
+                                    if ('') {
+                                        window.LH.tag("b", 
+                                        {
+                                            val: ''
+                                        });
+                                    } else if ( ___lhOnContentType___ === 1 && (___lhContentType___ == 'story' || ___lhContentType___ == 'slideshow')) {
+                                        window.LH.tag("b", 
+                                        {
+                                            val: 'GSUS_'+___lhContentType___
+                                        });
+                                    }
+
+                                    ___yaftConfig___ = {
+                                        generateHAR: true,
+                                        modules: ['yom-ad-','mediacontent','applet_','header','p_30345786_container','mediasports','mediafinance','mediastation','mediaautos','mediaweather','mediahomes','mediatumblr','mediascore','mediagettheapp'],
+                                        modulesExclude: ['/*[A-Za-z]_container','_wrapper','yom-ad-FOOT','yom-ad-SDARLAEXTRA'],
+                                        useNativeStartRender: true,
+                                        canShowVisualReport: 0 ? true : false,
+                                        maxWaitTime: ___aftMaxWaitTime___,
+                                        plugins: [
+                                            {
+                                                name: 'aftnoad',
+                                                isPre: true,
+                                                config: {
+                                                    useNormalizeCoverage: true,
+                                                    adModules:['yom-ad-']
+                                                }
+                                            }
+                                        ]
+                                    };
+
+                                    if (0) {
+                                        ___yaftConfig___.plugins.push({
+                                                name: 'har',
+                                                config: {
+                                                    sec: 'har',
+                                                    rapid: (YMedia && YMedia.rapid) ? YMedia.rapid : null,
+                                                    aftThreshold: 10000 ? 10000 : 15000
+                                                }
+                                        });
+                                    }
+
+                                    window.YAFT.init( ___yaftConfig___, function (data, error) {
+                                        var allAdPos = window.___allAdsPos___, i, norPage = 1;
+                                        if (!error) {
+                                            ___lhReccord('AFT', Math.round(data.aft));
+                                            ___lhReccord('AFTNOAD', Math.round(data.aftNoAd));
+                                            ___lhReccord('VIC', data.visuallyComplete);
+                                            if ( window.___adLT___ !== undefined && window.___adLT___.length && window.___adLT___.length > 0) {
+                                                for (i = 0; i < ___adLT___.length; i+=1) {
+                                                    ___lhReccord(___adLT___[i][0], ___adLT___[i][1]);
+                                                }
+                                            }
+
+                                            if (___lhNPageExcludes___ && ___lhNPageExcludes___ != '0' && ___lhNPageExcludes___.length && allAdPos && allAdPos.length) {
+                                                for (i = 0; i < allAdPos.length; i+=1) {
+                                                    if (___lhNPageExcludes___.indexOf(allAdPos[i]) != -1) {
+                                                        norPage = 0;
+                                                        break;
+                                                    }
+                                                }
+                                                if (norPage) {
+                                                    ___lhReccord('xAFT', Math.round(data.aft));
+                                                    ___lhReccord('xPLT', data.pageLoadTime);
+                                                }
+                                            }
+
+                                            window.LH.beacon( {
+                                                clearMarks:false, clearMeasures: false, clearCustomEntries: true, clearTags: false
+                                            });
+                                        }
+                                    });
+
+                                }
+                            }});
+    Y.later(10, this, function() {YMedia.add("media-event-queue", function(Y) {
+                                Y.namespace("Media.Event.Queue");
+                                var _event_queue;
+                                Y.Media.Event.Queue = {
+                                    "init" : function() {
+                                        Y.on("domready", function(e) {
+                                            var _now = new Date().getTime();
+                                            _event_queue = new Array();
+                                            _event_queue.push({"domready": _now});
+                                        }, window);
+                                    },
+                                    "push" : function(obj) { _event_queue.push(obj); },
+                                    "length" : function() { return _event_queue.length; },
+                                    "dump" : function() { return _event_queue; }
+                                };
+                            }, '1.0.0', {requires:['node','event']});
+                            YMedia.use("media-event-queue", function(Y) {
+                                Y.Media.Event.Queue.init();
+                            });});
+    Y.later(10, this, function() {Y.Array.each(YMedia.module_includes, function(inc, i, ar){ if(Y.Lang.isFunction(inc)) { inc(Y); ar[i] = null; } });});
+    Y.later(10, this, function() {YUI.namespace("Media.Article.Lead");
+                        YUI.Media.Article.Lead.config = {
+                            yuicfg:{
+                                "modules":{
+                                    "media-yep2-player":{
+                                        "fullpath":"https://s.yimg.com/nl/ynews/site/player.js"
+                                    }
+                                }
+                            },
+                            playerUrl : 'https://s.yimg.com/nl/ynews/site/player.swf?lang=zh-tw',
+                            autoPlay : 0
+                        };});
+    Y.later(10, this, function() {YAHOO = window.YAHOO || {};
+                            YAHOO.EntityLinking = YAHOO.EntityLinking || {};
+                            YAHOO.EntityLinking.data = [];});
+    Y.later(10, this, function() {YUI.namespace("Media.SocialButtons");
+
+            var instances = YUI.Media.SocialButtons.instances || [],
+                globalConf = YAHOO.Media.SocialButtons.conf || {};
+
+            Y.all(".ymsb").each(function(node)
+            {
+                var id = node.get("id"),
+                    conf = YAHOO.Media.SocialButtons.configs[id],
+                    instance;
+                if (conf)
+                {
+                    node.once("mouseenter", function(e)
+                    {
+                        instance = new Y.SocialButtons({
+                            srcNode: node,
+                            config: Y.merge(globalConf, conf.config || {}),
+                            contentMetadata: conf.content || {},
+                            tracking: conf.tracking || {}
+                        });
+
+                        Y.fire("msbloaded", {"url": conf.content.url });
+
+                        if (conf.config && conf.config.dynamic)
+                        {
+                            instances.push(instance);
+                        }
+
+                        instance.render();
+                        if (node.ancestor(".yui3-ymsb .yui3-ymsb")) {
+                            node.ancestor(".yui3-ymsb").setStyles({border:"0", padding:"0"});
+                        }
+                        instance = conf = id = null;
+                    });
+                }
+            });
+
+            YUI.Media.SocialButtons.instances = instances;
+
+            Y.on("load", function(){
+            
+                var shurl = Y.one('meta[property=og:url]');
+                if(shurl){
+                    var shurl = shurl.getAttribute('content'),
+                       yqlQuery = new Y.YQLRequest('SELECT * FROM media.beachhead.social.socialbuttons WHERE url="'+shurl+'" AND uuid="b2f41f65a3e530d4f015ffbb5224c3f2" AND apis="fb,tweet" AND env="prod"', function(r) {
+                           //Y.log(r);
+                        },
+                        {
+                            env: 'store://MYyImKujO2xYkM4BamQHsE'
+                        },
+                        {
+                            base  : '://media.query.yahoo.com/v1/public/yql?',
+                            proto : 'https'
+                        });
+                        yqlQuery.send();
+                    }
+            
+            });});
+    Y.later(10, this, function() {(function() { var i = new Y.Media.BCarousel({"modId":"mediabcarouselmixedlpca","uuid":"fde17bfc-c7fc-3428-9a80-7e21600b8bcc","numRows":1,"numCols":4,"maxItems":4,"pagesPerBatch":1,"xhrUrl":"\/_xhr\/carousel\/bcarousel-mixed-list\/?list_id=24819e4d-3dcb-49cb-8777-3686a1329e9b&thumb_ratio=4x3&pyoff=0&title_lines_max=2&show_cite=&show_date=&show_provider=&show_author=&show_duration=&show_subtitle=&show_provider_links=&apply_filter=&filters=&template=tile&num_cols=4&num_rows=1&start_initial=1&max_items=4&pages_per_batch=1&sec=&module=MediaBCarouselMixedLPCA&spaceid=2144404884&mod_units=16&renderer_key=","paginationTemplate":"{first} - {last} \/ {total}","placeholderTemplate":"<li class=\"{class}\"><div class=\"item-wrap\"><span class=\"img-wrap\"><div class=\"{icon}\"><\/div><\/span><div class=\"txt\"><p class=\"title\">{message}<\/p><\/div><\/div><\/li>","startInitial":1,"totalItems":4,"drag":false,"strings":{"error":"","loading":""}},Y.Media.pageChrome);i.render(); })();});
+    Y.later(10, this, function() {if(Y.Media&&Y.Media.SearchForm){Y.Media.SearchForm(Y,{"searchModuleSelector":"#mediasearchform","searchFieldSelector":"#mediasearchform-p"});};});
+    Y.later(10, this, function() {(function() { var i = new Y.Media.BCarousel({"modId":"mediabcarouselmixedlpca_2","uuid":"4a22d944-a97a-37de-b20c-5317f6c2b555","numRows":1,"numCols":4,"maxItems":12,"pagesPerBatch":1,"xhrUrl":"\/_xhr\/carousel\/bcarousel-mixed-list\/?list_id=ecd9d91d-56da-4853-9000-2813cd569351&thumb_ratio=16x9&pyoff=0&title_lines_max=2&show_cite=&show_date=&show_provider=&show_author=&show_duration=&show_subtitle=&show_provider_links=&apply_filter=&filters=%255B%255D&template=tile&num_cols=4&num_rows=1&start_initial=1&max_items=12&pages_per_batch=1&sec=&module=MediaBCarouselMixedLPCA&spaceid=2144404884&mod_units=24&renderer_key=","paginationTemplate":"{first} - {last} \/ {total}","placeholderTemplate":"<li class=\"{class}\"><div class=\"item-wrap\"><span class=\"img-wrap\"><div class=\"{icon}\"><\/div><\/span><div class=\"txt\"><p class=\"title\">{message}<\/p><\/div><\/div><\/li>","startInitial":1,"totalItems":12,"drag":false,"strings":{"error":"","loading":""}},Y.Media.pageChrome);i.render(); })();});
+    Y.later(10, this, function() {if (YMedia) {
+                                    YMedia.photoYwaProjectId = "10001086543479";
+                                }});
+    Y.later(10, this, function() {var ysmcm=new YUI.Media.YsmCM("mw-ysm-cm-container",{"id":"mw-ysm-cm","config":"4775832391","ctxtid":"","ctxtcat":"","source":"yahoo_tw_news_cm","type":"","columns":1,"count":4});ysmcm.refresh();});
+           
+});
+
+YUI.Env.add(window, "load", function(){
+YMedia.use("media-uh","media-persistence","media-menu_group_plugin","media-menu-plugin","media-menu_handler_v2","media-gallery-jsonp","media-logo_debug","media-localeDateFormat","media-timestamp_library","media-usermenu_v2","media-signout","media-uh_rapid","media-meta","media-disclaimer_seed","media-top_bar_v2","media-home_menu","media-search","media-help_menu_v4","media-rmp","media-ylc","media-iesitemode","node","media-trfsm","base","jsonp","media-ywa","media-ywa-tracking","json-parse","get","event-delegate","selector-css3","media-i13n","media-dwell-time","event","json-stringify","node-event-html5","media-event-queue","media-header-uh3s-desktop","anim","media-article","media-author-badge","lang","swf","media-twitter_embed","media-video-embed-player","media-all","node-base","io-xdr","media-sentiment","io-form","io","media-index","substitute","overlay","querystring-stringify","media-topstory","media-tooltip","event-base","event-mouseenter","json","io-base","media-iblist","media-fontresize","media-userdata","media-blistmixed-newsforyou-rotate","cookie","media-float-right-module","media-footer","media-tracking",function(Y){
+          
+    Y.later(10, this, function() {Y.Array.each(YMedia.includes, function(inc, i, ar){ if(Y.Lang.isFunction(inc)) { inc(Y); ar[i] = null; } });
+    });
+    Y.later(10, this, function() {Y.Global.Media.ILBoot.initImageLoader(true);
+    });
+    Y.later(10, this, function() {new Y.Media.Iesitemode({ title:"工作",
+spaceid:"2145180269" });
+    });
+    Y.later(10, this, function() {(function() {
+                                                    var configUrl = 'https://s.yimg.com/os/assets/globalmedia/traffic/traffic-simulation.js',
+                                                        simulator = new Y.Media.TrafficSimulator({ 'dataUrl' : configUrl });
+                                                    simulator.load();
+                                                })();
+    });
+    Y.later(10, this, function() {var spaceId = spaceId || "2144404884",    ssl = "1";if(typeof YAHOO === "object" && typeof YAHOO.i13n === "object" && typeof YAHOO.i13n.sendComscoreEvent === "function") {if(YAHOO.i13n.setEga){YAHOO.i13n.setEga("");} if(YAHOO.i13n.setLTT){YAHOO.i13n.setLTT("-1");} if(YAHOO.i13n.setRdg){YAHOO.i13n.setRdg("");} if(YAHOO.i13n.setSpaceid){YAHOO.i13n.setSpaceid(spaceId);} YAHOO.i13n.setSsl("1");YAHOO.i13n.sendComscoreEvent(); }
+    });
+    Y.later(10, this, function() {if (Y.Media && Y.Media.HeaderUH3s) { Y.Media.HeaderUH3s(Y).init(); }
+    });
+    Y.later(10, this, function() {Y.Media.Article.init();
+    });
+    Y.later(10, this, function() {new Y.Media.AuthorBadge();
+    });
+    Y.later(10, this, function() {Y.Media.Article.init({
+                lang: "zh-Hant-TW",
+                contentType: "story"
+            });
+    });
+    Y.later(10, this, function() {Y.Media.SharingEmbedTwitter.init();
+    });
+    Y.later(10, this, function() {Y.Media.ArticleEmbedVideo.loadEmbedVideo();
+    });
+    Y.later(10, this, function() {Y.Media.SentimentVote.init({spaceid:"2144404884",id:"mediasentiment",login:"0",guid:"",count:"3",max_headline_length:"200"});
+    });
+    Y.later(10, this, function() {var Topstory = new Y.Media.Topstory({
+                    'useJapi'       : '1',
+                    'tabbedListId'  : 'mediatopstorytemp',
+                    'content_id'    : 'e02497d9-8905-3d79-83e0-d4eadf760b33',
+                    'ids'           : ["65f8a0d2-abfb-11df-be2e-00505604e304"],
+                    'latestList'    : [0],
+                    'argsList'      : [{"storycount":"6","img_start":"","img_end":"","popup_switch":"0","provider_switch":"1","timestamp_switch":"1","max_title_length":"35","max_summary_length":"","item_template":"title_thumb_summary","storystart":"1","list_source":"listid","categories":[]}],
+                    'labels'        : { "more" : '更多' },
+                    'defaultSec'    : '' || 'MediaTopStoryTemp',
+                    'spaceId'       : '2144404884',
+                    'pagequery'     : '',
+                    'popupswitch'   : '"0"',
+                    'more_inline'   : '0',
+                    'ads_refresh'   : [],
+                    'apply_filter'  : '',
+                    'filters'       : '[]',
+                    'isClassickickEnabled' : '0',
+                    'enableRapidTracking' : '0',
+                    'queryUrl'      :  'list_id={list_id}&list_source={list_source}&apply_filter={apply_filter}&filters={filters}&content_id={content_id}&categories={categories}&selected_tab={selected_tab}&relatedcollections_index={relatedcollections_index}&latest_on={latest_on}&s=2144404884&sec={sec}&pagequery={pagequery}&story_start={story_start}&storycount={storycount}&img_start={img_start}&img_end={img_end}&popup_switch={popup_switch}&provider_switch={provider_switch}&author_switch={author_switch}&timestamp_switch={timestamp_switch}&max_title_length={max_title_length}&max_summary_length={max_summary_length}&item_template={item_template}&more_inline={more_inline}&base_start={base_start}&cache_ttl=TTL_LEVEL_30',
+                    'enableSC'      : '0'
+                });
+                Topstory.init();
+    });
+    Y.later(10, this, function() {new Y.Media.News.iblist(
+                            {
+                                spaceid:"2144404884",
+                                sec:"mediainfinitebrowselist",
+                                csrcpvid:"JEJYUjEwNi6EKDD5BmguTAFEMjE4LlSVkQD_wvII",
+                                t:Math.floor(Math.random()*Math.pow(2,31)),
+                                pt:"storypage",
+                                pstaid:"e02497d9-8905-3d79-83e0-d4eadf760b33",
+                                src_pty: "media",
+                                device:"full"
+                            },
+                            {"text":["782c8dd1-9730-3ff4-8eeb-d1326d1ecc37","5b56f6c1-d948-32c1-89ba-3729c78343ba","e2044ac1-429a-351d-afe8-aeaa79a91f10","99347a6a-f7e5-3e37-9e97-ae9c920e584b","81313911-177f-317c-a0bd-f6f65235fe36","435a2879-bc7f-3830-9b6f-ca73ada7e952","0998ca47-3522-38f0-855b-e8a556b7821c"],"thumb":["40c74ebd-c0d0-3402-9c68-68a0b5a669b6","e8f8e34c-641b-3491-b800-95802e3b3c43","706dae76-65d9-3f05-aa6e-96c427b39793"],"textterm":[],"thumbterm":[]}
+                            );
+    });
+    Y.later(10, this, function() {var vpl = Y.Object.getValue(Y, ['Global', 'Media', 'ViewportLoader']);
+        if (vpl) {
+            vpl.loadModules();
+        }
+    });
+    Y.later(10, this, function() {(function(){
+                        var userdata = new Y.Media.UserData({"crumb":""});
+                        Y.Media.FontResize.init(userdata, { "incr_text":"+字", "incr_desc":"放大字體",
+                        "decr_text":"-字", "decr_desc":"縮小字體" });
+                        })();
+    });
+    Y.later(10, this, function() {new Y.Media.BlistMixedNewsForYouRotate({
+                                    'count' : 8,
+                                    'limit' : 21
+                                    }).init();
+    });
+    Y.later(10, this, function() {var mediamostsentimenttemp = new Y.Media.MostSentiment(
+                    {
+                        spaceid:"2144404884",
+                        id:"mediamostsentimenttemp",
+                        count:"8",
+                        max_headline_length:"100"
+                    }
+                    );
+                    mediamostsentimenttemp.init();
+    });
+    Y.later(10, this, function() {new Y.Media.FloatRightModule().float_right_module("10");
+    });
+    Y.later(10, this, function() {if(Y.Media.Footer) var footer = Y.Media.Footer(Y,{footerInfoSelector:"#mediafooterinfo",currentDeviceType:"full",projectId:"10001703162079",enableYwaTracking:"1"});
+    });
+    Y.later(10, this, function() {Y.Media.Dwell.Time.init(
+                                {"spaceid":"2144404884",
+                                  "uuid":"e02497d9-8905-3d79-83e0-d4eadf760b33",
+                                  "pt":"storypage"
+                                }
+                            );
+    });
+    Y.later(10, this, function() {(function(Y) {
+                    var videoEmbedPlayer = new YAHOO.Media.VideoEmbedPlayer({"yuicfg":{
+                        "modules":{
+                            "media-yep2-player":{
+                                "fullpath":"https://s.yimg.com/nl/ynews/site/player.js"
+                            }
+                        }
+                    }});
+                    videoEmbedPlayer.init({
+                        playerUrl : "https://s.yimg.com/nl/ynews/site/player.swf?lang=zh-tw",
+                        autoPlay: "1"
+                    });
+                })(Y);
+    });
+    Y.later(10, this, function() {Y.namespace("Media").ywaSettings = '"projectId": "10001703162079", "documentName": "", "documentGroup": "storypage", "ywaColo" : "vscale3", "spaceId" : "2144404884" ,"customFields" : { "12" : "classic", "13" : "story" }';
+                            Y.Media.YWA.init(Y.namespace("Media").ywaSettings);
+    });
+});
+});
+        
+        </script>
+
+
+<noscript><div><img src="https://sb.scorecardresearch.com/b?c1=2&c2=7241469&c7=tw.news.yahoo.com%2F%E9%86%AB%E5%B8%AB%E5%B0%91%E5%8F%88%E8%80%81-%E6%9C%AA%E4%BE%86%E6%81%90%E7%84%A1%E4%BA%BA%E7%9C%8B%E7%97%85-221035281.html&c5=2144404884&c14=-1&cv=2.0&cj=1" style="display:none" width="0" height="0" alt="" /></div></noscript>
+    </body>
+</html>
+
+<!-- fe53.global.media.sg3.yahoo.com uncompressed/chunked Sat Dec 20 15:08:48 UTC 2014 -->
+<!-- ncache11.global.media.sg3.yahoo.com uncompressed/chunked Sat Dec 20 15:08:48 UTC 2014 -->
