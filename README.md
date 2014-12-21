@@ -1,7 +1,7 @@
 Machine learning on Text
 ====================
 
-## Requirements
+## Goal
 
 1. use k-NN to build a page classifier and evaluate it
     - Apply any semi-supervised learning approach (e.g., PU-learning) to improve your classifier in (1)
