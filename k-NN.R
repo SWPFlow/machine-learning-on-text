@@ -9,12 +9,10 @@ data$category[data$category == 'h'] <- 1
 data$category[data$category == 'p'] <- 2
 data$category[data$category == 'e'] <- 3
 
-#trainData <- subset(trainData, select=-category)
-trainData <- rbind(data[1:5,], data[16:20,])
-trainData <- rbind(trainData, data[31:35,])
+cl <- data$category
+trainData <- subset(data, select=-category)
 testData <- subset(data, select=-category)
-cl <- trainData$category
-myknn <- knn(trainData, testData, cl, k=3)
+myknn <- knn(trainData, testData, cl, k=8)
 
 #cross validation
-#myknn.cv <- knn.cv(data, data[,9], k=3)
+myknn.cv <- knn.cv(data, data[,9], k=3)
