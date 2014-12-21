@@ -1,4 +1,5 @@
 library(caret)
+library(class)
 #k-NN, cross-validation, improve by semi-supervised learning, different k
 
 data <- data.frame(read.csv('data.csv'), stringsAsFactors=FALSE)
@@ -8,10 +9,12 @@ data$category[data$category == 'h'] <- 1
 data$category[data$category == 'p'] <- 2
 data$category[data$category == 'e'] <- 3
 
+#trainData <- subset(trainData, select=-category)
 trainData <- rbind(data[1:5,], data[16:20,])
 trainData <- rbind(trainData, data[31:35,])
-cl <- trainData$category
-trainData <- subset(trainData, select=-category)
-
 testData <- subset(data, select=-category)
-knn(trainData, testData, cl, k=3)
+cl <- trainData$category
+myknn <- knn(trainData, testData, cl, k=3)
+
+#cross validation
+#myknn.cv <- knn.cv(data, data[,9], k=3)
